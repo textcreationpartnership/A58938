@@ -1,0 +1,791 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Seasonable prospect for the view and consideration of Christians being a brief representation of the lives and conversations of infidels and heathens, in our age, as to religion and morality : together with some reflections thereupon, in relation to us who profess Christianity : to which is now added many of the wise and vertuous sayings of the ancient heathens / by a gentleman.</title>
+            <author>Gentleman.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 124 KB of XML-encoded text transcribed from 31 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58938</idno>
+            <idno type="STC">Wing S2239A_VARIANT</idno>
+            <idno type="STC">ESTC R34065</idno>
+            <idno type="EEBO-CITATION">13691810</idno>
+            <idno type="OCLC">ocm 13691810</idno>
+            <idno type="VID">101404</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58938)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101404)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1047:41)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Seasonable prospect for the view and consideration of Christians being a brief representation of the lives and conversations of infidels and heathens, in our age, as to religion and morality : together with some reflections thereupon, in relation to us who profess Christianity : to which is now added many of the wise and vertuous sayings of the ancient heathens / by a gentleman.</title>
+                  <author>Gentleman.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition.</edition>
+               </editionStmt>
+               <extent>[4], 54 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.L. for Luke Meredith ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata on p. 54.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life.</term>
+               <term>Islam --  Customs and practices.</term>
+               <term>Hinduism.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101404:1"/>
+            <p>A Seaſonable Proſpect FOR THE VIEW and CONSIDERATION OF Chriſtians. BEING A Brief Repreſentation of the Lives and Converſations of <hi>Infidels</hi> and <hi>Hea<g ref="char:EOLhyphen"/>thens,</hi> in our Age, as to Religion and Morality.</p>
+            <p>TOGETHER With ſome Reflections thereupon, in Re<g ref="char:EOLhyphen"/>lation to us who profeſs Chriſtianity.</p>
+            <p>To which is now added, Many of the Wiſe and Vertuous Sayings of the Ancient Heathens.</p>
+            <p>The Second Edition.</p>
+            <p>
+               <hi>Fides eſſe ſine Charitate poteſt, prodeſſe non poteſt.</hi>
+            </p>
+            <p>By a GENTLEMAN.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. L.</hi> for <hi>Luke Meredith,</hi> at the <hi>Angel</hi> in <hi>Amen-Corner,</hi> 1691.</p>
+            <p>Price Stitch'd 4 <hi>d.</hi>
+            </p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:101404:2"/>
+            <pb facs="tcp:101404:2"/>
+            <head>THE PREFACE.</head>
+            <opener>
+               <salute>Chriſtian Reader.</salute>
+            </opener>
+            <p>MEeting accidentally with a Print<g ref="char:EOLhyphen"/>ed Relation (made by one Mr. <hi>Edward Terry,</hi> Student of <hi>Chriſt-Church Oxford;</hi> and after Chap<g ref="char:EOLhyphen"/>lain to Sir <hi>Thomas Row,</hi> Embaſſador to the great <hi>Mogol;</hi> and after his return Home, was Miniſter or Rector of <hi>Green<g ref="char:EOLhyphen"/>ſted</hi> in <hi>Middleſex</hi>) of the Religion, Lives, and Manners of the <hi>Mahometans</hi> and <hi>Hea<g ref="char:EOLhyphen"/>thens</hi> in that vaſt Empire of the Great <hi>Mo<g ref="char:EOLhyphen"/>gol,</hi> called <hi>Indoſtan</hi> or <hi>Eaſt India:</hi> And judging it a very faithful and authentick Account, being from his own certain Know<g ref="char:EOLhyphen"/>ledge and Experience, gained by his Reſi<g ref="char:EOLhyphen"/>dence at the <hi>Mogol</hi>'s Court, for ſeveral Years in our Age, as Chaplain to the <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> Embaſſador there. And finding by his Relation a great Senſe of God among them, and many excellent Moralities practiſed by them from that weak natural Light, and that falſe Religion they enjoy; and conſider<g ref="char:EOLhyphen"/>ing ſeriouſly, the great failure of too many
+<pb facs="tcp:101404:3"/>Chriſtians among us therein, who have not only the ſame Light of Nature, and that very much improved by Learning and Edu<g ref="char:EOLhyphen"/>cation for their Guide; but alſo the glorious Light of the Goſpel, and Revelation of the ever bleſſed Jeſus; and conſidering how much this is to the great Scandal and Re<g ref="char:EOLhyphen"/>proach of our ſaid Holy and Excellent Re<g ref="char:EOLhyphen"/>ligion, and will be alſo our great Condemna<g ref="char:EOLhyphen"/>tion at laſt; that this Light thus come into the World to us, yet we love Darkneſs ra<g ref="char:EOLhyphen"/>ther than Light, becauſe our Deeds are Evil. I thought it not amiſs to make pub<g ref="char:EOLhyphen"/>lick this ſhort Account of <hi>The Converſa<g ref="char:EOLhyphen"/>tions of Infidels and Heathens,</hi> Contempo<g ref="char:EOLhyphen"/>rary with us, with ſome Reflections there<g ref="char:EOLhyphen"/>upon, to ſhame us Chriſtians (if it were poſſible) out of our contempt of God, Reli<g ref="char:EOLhyphen"/>gion, and his Miniſters, our groſs Immo<g ref="char:EOLhyphen"/>ralities and Vices, which are ſo much (God knows) abounding among us at this day; and that we may prudently conſider our eter<g ref="char:EOLhyphen"/>nal Safety and Welfare. To which, in this ſecond Impreſſion, I have made the Addition of many of the Diſcourſes and Sayings of the ancient Philoſophers and wiſe Heathens; together, with ſome other Paſſages omitted in the former. <hi>Farewel.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:101404:3"/>
+            <head>A Seaſonable Proſpect FOR THE VIEW and CONSIDERATION OF CHRISTIANS. BEING A Brief Repreſentation of the Religion, Lives, and Converſation of <hi>Infidels</hi> and <hi>Heathens.</hi>
+            </head>
+            <div type="part">
+               <head>
+                  <hi>Firſt,</hi> Their Piety towards God.</head>
+               <div n="1" type="section">
+                  <head>
+                     <hi>1.</hi> In Their frequent Devotions in publick, and their great Zeal and Reverence therein.</head>
+                  <p>THE Author relates, That whatever diver<g ref="char:EOLhyphen"/>ſions or Impediments they have either at Home or in a Journey, they conſtantly pray five times every day, <hi>viz.</hi> at ſix a Clock in the Morning, and at Nine, and Twelve, and in the Afternoon at Three and Six. The <hi>Mogol</hi> the Prince him<g ref="char:EOLhyphen"/>ſelf doth ſo, and the meaneſt Shepherd that waits on his Hock in the Field; and if they can they perform their Devotions in their Moſquits or Churches.</p>
+                  <p>They waſh their Feet, and then entering their Moſ<g ref="char:EOLhyphen"/>quits or Churches, they put off their Shooes, and as they begin their Devotions they ſtop their Ears, and fix their Eyes, that nothing may divert their thoughts; then in a ſoft and ſtill voice they utter their Prayers, wherein are many words moſt ſignificantly expreſſing the Omnipotency, Greatneſs, Eternity, and other Attributes
+<pb n="2" facs="tcp:101404:4"/>of God, caſting themſelves low upon their Faces ſundry times, and then acknowledging that they are burdens to the Earth, and poiſon to the Air; being ſo confounded and aſhamed, as they ſeem not to dare ſo much as to lift up their Eyes to Heaven; but after all, comfort them<g ref="char:EOLhyphen"/>ſelves in the Mercies of God, through the mediation of <hi>Mahomet.</hi>
+                  </p>
+                  <p>It happened, That I having once ſome diſcourſe with a Mahometan of good quality (ſaith the Author;) and diſcourſing with him about his frequent praying, I told him, That if himſelf and others of his profeſſion, who did believe it a duty to pray ſo often, would conclude their Petitions in the Name of <hi>Jeſus Chriſt,</hi> they might find much comfort in thoſe frequent performances of that great duty. He anſwered, That I needed not trouble my ſelf with that; for they found as great comfort as they could deſire in what they did: and preſently he gave me this relation.</p>
+                  <p>There was (ſaid he) a moſt devout <hi>Muſſelman,</hi> that is to ſay a zealous Mahometan, who had his habitation in a great City where <hi>Mahomet</hi> was zealouſly profeſſed, and that Man for many years together ſpent his whole days in the Moſquit or Church; in the mean time, (not mind<g ref="char:EOLhyphen"/>ing the world at all) he became ſo poor, that he had no<g ref="char:EOLhyphen"/>thing left to buy Bread for his Family; yet notwithſtand<g ref="char:EOLhyphen"/>ing his poor condition, he was reſolved ſtill to ply his Devotions; and in a Morning (when perceiving that there was nothing at all left for the further Subſiſtence of himſelf and Houſhold) he took a ſolemn leave of his Wife and Children, reſolving for his part to go and Pray and Die in the Moſquit, leaving his Family (if no relief came) to famiſh at home. But that very day there came to his Houſe a very Beautiful Young man (as he appeared to be) who brought and gave unto his Wife a conſiderable quantity of Gold bound up in a white Napkin, telling her, That God had now remembred her Husband, and ſent him his pay for his conſtant Pains ta<g ref="char:EOLhyphen"/>ken in his Devotions; withal, charging her not to ſend for her Husband, (for though he had taken ſuch a ſo<g ref="char:EOLhyphen"/>lemn leave of her that Morning) yet he would come home to her again that Night, and ſo he departed from
+<pb n="3" facs="tcp:101404:4"/>her. The Woman preſently bought in ſome neceſſaries for her Houſe (for they had eaten up all before) and further made ſome good Proviſion for her Husband, a<g ref="char:EOLhyphen"/>gainſt his coming home in the Evening, (for ſo he did) and finding all his Family very chearful and merry, his Wife preſently told him, That there had been ſuch a one there (as before deſcribed) and left ſo much Gold behind him, with the forementioned Meſſage delivered with it. Her Husband preſently replied, That it was the Angel <hi>Gabriel</hi> ſent from God, (for the Mahometans ſpeak much of that Angel,) and he further added, That himſelf had nothing to bring home unto her but a little Grit or Sand, which he took up in his way homeward, and bound it in his Girdle; which he preſently opening to ſhow her, it was all turned into precious Stones, which amounted unto a very great value. The Se<g ref="char:EOLhyphen"/>venth part of which, as of his Gold likewiſe, he pre<g ref="char:EOLhyphen"/>ſently gave to the Poor; (for, ſaid he, a <hi>Muſſelman</hi> is very Charitable;) and then made this Inference and Concluſion of his Diſcourſe with me: That if we do not neglect God, God will not forget us, but will, when we ſtand moſt in need of help, ſupply us.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>
+                     <hi>2.</hi> In their Obſervations of their Sabbaths, and other Feſtivals and Faſts.</head>
+                  <p>Their Liturgy is in the <hi>Arabian</hi> Tongue, not under<g ref="char:EOLhyphen"/>ſtood by many of the common People, yet is repeated by the Moolaas or Prieſts, and alſo by the common People. The Mahometans alſo rehearſe the names of <hi>God</hi> and <hi>Maho<g ref="char:EOLhyphen"/>met</hi> certain times upon beads, as the papiſts do their prayers.</p>
+                  <p>The devout Mahometans, in a ſolemn manner, aſ<g ref="char:EOLhyphen"/>ſemble, in their Moſquits or Churches, where by their Moolaas or Prieſts (upon <hi>Fridays</hi> which is their Sabbath) ſome ſelected parts of the Alcoran are publickly read un<g ref="char:EOLhyphen"/>to them, which their Moolaas or Prieſts never touch without an Expreſſion of much outward Reverence, and then they deliver ſome precepts which they gather out of it. And they never ſee their Alcoran, and hear any part of it read, without a great ſhew of Attention, Affection and Reverence.</p>
+                  <pb facs="tcp:101404:5"/>
+                  <p>They keep a ſolemn <hi>Lent,</hi> which they call <hi>Ramjam</hi> or <hi>Ramdam,</hi> which begins the firſt New-Moon, which hap<g ref="char:EOLhyphen"/>pens in <hi>September,</hi> and ſo continue it that whole Moon. And during all that time, thoſe that are ſtrict in their Religion forbear their Women, and will not take either Meat or Drink any day during that time, ſo long as the Sun is above the Horizon, only after the Sun is ſet they eat at pleaſure. The laſt day of their <hi>Lent</hi> they Conſe<g ref="char:EOLhyphen"/>crate as a day of Mourning, to the memory of their de<g ref="char:EOLhyphen"/>ceaſed Friends; when I have obſerved, (ſaith the Au<g ref="char:EOLhyphen"/>thor) many of the meaner ſort ſeem to make moſt bitter Lamentation (beſides what they do at their Friends de<g ref="char:EOLhyphen"/>ceaſe, when they howl and cry many whole days for their Friends departed) and then at night they fire an innume<g ref="char:EOLhyphen"/>rable company of Lamps and other Lights; and when burnt out, the <hi>Lent</hi> is ended, and the people take their Food as before.</p>
+                  <p>The day after the <hi>Ramjam</hi> or <hi>Lent</hi> is ended, the moſt devout Mahometans in a ſolemn manner aſſemble at their Moſquits or Churches, and hear ſome ſelect parts of their Alcoran read unto them.</p>
+                  <p>The <hi>Hindoes</hi> or <hi>Indians</hi> alſo being Heathens, have little Churches called <hi>Pagods,</hi> built round and ſtanding under green Trees, wherein are Images of monſtrous Shapes. but for what end the Author knows not. He relates, That both Men and Women, before they go to their Devotions (which is very frequently) waſh their Bodies, which they think avails them much towards their clean<g ref="char:EOLhyphen"/>ſing from Sin; and they aſcribe a certain kind of Divi<g ref="char:EOLhyphen"/>nity to Rivers (eſpecially to the famous River <hi>Ganges,</hi>) whither they flock daily in Troops to waſh themſelves.</p>
+                  <p>The day of reſt or Sabbath, which the <hi>Hindoes</hi> or <hi>In<g ref="char:EOLhyphen"/>dians</hi> obſerve, is <hi>Thurſday,</hi> as alſo many other Feſtivals or Times of publick Devotions they obſerve very Solemnly, as alſo Pilgrimages.</p>
+                  <p>And they never hear their Law or Precepts read to them by their Bramins or Prieſts, without a ſhew of great Attention, Reverence and Affection.</p>
+                  <p>Their Bramins or Prieſts (as the Author affirms) have told him, That they acknowledge one God, whom they deſcribe with a Thouſand Eyes, and a Thouſand Hands,
+<pb n="5" facs="tcp:101404:5"/>and as many Feet; as being all Eye to ſee, all Feet to follow, and all Hand to ſmite offenders; thus they ex<g ref="char:EOLhyphen"/>preſs his Power. The conſideration whereof makes them (as the Author teſtifies) very exact in their dealings with Men, moſt carefully obſerving that Royal Law, in doing to others but what they would be contented to ſuffer from them.</p>
+                  <p>Now that Book of their Law, which they call the <hi>She<g ref="char:EOLhyphen"/>ſter,</hi> or the Book of their written Word, hath been tran<g ref="char:EOLhyphen"/>ſcribed in all Ages, ever ſince the firſt delivery of it (not long after the Creation, as they ſay) by the Bramins, out of which they deliver Precepts unto the people.</p>
+                  <p>Both Men and Women, before they go to their De<g ref="char:EOLhyphen"/>votions (which are very frequent) waſh their Bodies (as I related before) led hereunto by a certain Precept, (as they ſay) given them by their Lawgiver, <hi>Breman,</hi> which requires them daily to obſerve their times of Devotion expreſſed by their Waſhings, and Worſhippings, and Prayer to God, which muſt be all done, ſay they, with purity of Heart.</p>
+                  <p>The Precepts delivered to them from him they call <hi>Breman,</hi> are theſe;</p>
+                  <p>Firſt, Thou ſhalt not kill any living Creature what<g ref="char:EOLhyphen"/>ever it be, having Life in the ſame, for thou art a Creature, and ſo is it; thou art endued with Life, and ſo is it; thou ſhalt not therefore ſpill the Life of any of thy fellow Creatures that live.</p>
+                  <p>Other Precepts they mention as delivered by their Lawgiver, <hi>viz.</hi>
+                     <list>
+                        <item>2. To obſerve times for Faſting, and hours for Watch<g ref="char:EOLhyphen"/>ing, that they may be better fitted for their Devotions.</item>
+                        <item>3. directions about their Feſtivals, wherein are re<g ref="char:EOLhyphen"/>quired alſo,</item>
+                        <item>To take their Food moderately not pampering their Bodies.</item>
+                        <item>4. And concerning Charity, they are commanded to help the Poor as far as poſſibly they are able.</item>
+                        <item>5. Not to tell falſe Tales, nor to utter any thing that is untrue.</item>
+                        <item>6 Not to Steal any thing from others, be it never ſo little.</item>
+                        <pb n="6" facs="tcp:101404:6"/>
+                        <item>7. Not to Defraud any by their Cunning in Bargains or Contracts.</item>
+                        <item>8. Not to Oppreſs any, when they have Power to do it.</item>
+                     </list>
+                  </p>
+                  <p>All which are obſerved by theſe <hi>Hindoes</hi> or <hi>Indians</hi> (as the ſaid Author affirms) with much ſtrictneſs, ſeveral of them being very good Precepts, having the impreſſion of God upon them.</p>
+                  <p>There are alſo another ſort of Heathens among them, called the <hi>Perſees,</hi> who have a Book of their Religion deli<g ref="char:EOLhyphen"/>vered by their Prophets, in which (as the Author was informed) are theſe Precepts following,
+<list>
+                        <item>I. To have Shame and Fear ever preſent with them, which will reſtrain and keep them from committing many Evils.</item>
+                        <item>II. When they undertake any thing, ſeriouſly to con<g ref="char:EOLhyphen"/>ſider whether it be Good or Bad, Commanded or For<g ref="char:EOLhyphen"/>bidden them.</item>
+                        <item>III. To keep their Eyes and Hearts from Coveting any thing that is anothers, and their Hands from hurting any one.</item>
+                        <item>IV. To have a care always to ſpeak the Truth.</item>
+                        <item>V. To be known only in their own Buſineſſes, and not to inquire into, and to buſie themſelves in other Mens Matters.</item>
+                        <item>VI. Not to Entertain or Believe any other Law, be<g ref="char:EOLhyphen"/>ſides what they have delivered to them by their Pro<g ref="char:EOLhyphen"/>phets.</item>
+                     </list>
+                  </p>
+                  <p>Their Prieſts they call <hi>Daroos</hi> or <hi>Harboods,</hi> above which they have a Chief or High-Prieſt, they call the <hi>Doſtoor,</hi> who not often appears openly, but when he does he meets with much Reverence and Reſpect given unto him by the Common People; and ſo do their other Church-men which are his Inferiors, unto all which they allow free maintenance for their more comfortable Subſiſtence, and thoſe Church-men, by their Law, are commanded to dwell near, and to abide much in their <hi>Egares</hi> or tem<g ref="char:EOLhyphen"/>ples, to give advice unto any that ſhall repair unto them. They obſerve divers Feaſts, and immediately after each of them a Faſt follows.</p>
+               </div>
+               <div n="3" type="section">
+                  <pb n="7" facs="tcp:101404:6"/>
+                  <head>
+                     <hi>3.</hi> In their Zeal in their Religion, and not induring that Religion ſhould be Contemned and Neglected.</head>
+                  <p>As they cannot bear that any one ſhould affront or contemn their Religion, both the <hi>Mahometans</hi> and the <hi>Hindoes,</hi> or <hi>Indians:</hi> So there is not any one among the <hi>Mahometans,</hi> which at any time mentions the Name of our Bleſſed Saviour <hi>Jeſus Chriſt,</hi> but he mentions it with high Reverence and Reſpect; for they ſay of him, That he was a good Man and a Juſt, that he lived with<g ref="char:EOLhyphen"/>out Sin, that he did greater Miracles than any other before or ſince. They call him the Breath of God, but cannot conceive how he ſhould be the Son of God. Yet they conceive of us Chriſtians to be ſo unworthy and ſo unclean, that they will not eat with us any thing that is of our dreſſing, nor yet any thing that is dreſſed in our Veſſels. And the Author affirms, That he hath often heard the Natives, the <hi>Hindoes,</hi> which lived near the Port where our Ships arrive, ſay thus in broken Engliſh, Chriſtian Religion, Devil Religion, Chriſtians much Drunk, Chri<g ref="char:EOLhyphen"/>ſtians much do wrong, much beat, much abuſe others.</p>
+                  <p>The <hi>Mahometans</hi> and many others among them, are very forward, and zealous to vindicate and promote that which they call their Religion, (according to that ſaying of <hi>Philo Judaeus, <g ref="char:V">Ʋ</g>bi de Religione, ibi quoque de vita agitur:</hi> We muſt act for Religion as we would ſtrive for Life) and ſo do they.</p>
+                  <p>Among the <hi>Mahometans</hi> there are many Votaries; they are called <hi>Derveeſes,</hi> who relinquiſh the World, and ſpend all their days in Solitude and Retiredneſs, ex<g ref="char:EOLhyphen"/>pecting a Recompence. They are well content, as they ſay, to ſuffer and wait for it in that better Life to come. Thoſe are very ſharp and ſtrict Pennances which many of theſe People undergo voluntarily, and far exceed thoſe of the <hi>Romaniſts.</hi> They crying out continually in theſe or the like Expreſſions, God Almighty look upon me, I Love Thee, I Love not the World; but I Love Thee, and do all this for thy ſake, Look upon me, God Almighty. Theſe People after this Retirement, will chooſe rather to Famiſh than ſtir from their Cells, and
+<pb n="8" facs="tcp:101404:7"/>therefore are relieved by the Charity of others. Again, I have there ſeen (as the Author ſpeaks) them who meer<g ref="char:EOLhyphen"/>ly out of Devotion, have put ſuch maſſy Fetters of Iron upon their Legs, as that they could ſcarce ſtir with them, and then covered with Blue Mantles, (the colour of Mourners in thoſe parts,) they go as faſt as they are a<g ref="char:EOLhyphen"/>ble, many Miles barefoot upon the hot parching ground in Pilgrimage, to viſit the Sepulchres of their Saints.</p>
+               </div>
+               <div n="4" type="section">
+                  <head>
+                     <hi>4.</hi> In their great Reverence and Reſpect they give to their Prieſts, and other Devout and Holy Perſons.</head>
+                  <p>The <hi>Moolaas</hi> or <hi>Mahometan</hi> Prieſts are diſtinguiſhed only by their Beards, which they wear long, whoſe Cal<g ref="char:EOLhyphen"/>ling gains them very much Eſteem and Reverence among the People; yet there is alſo another order of Moolaas or Prieſts, called <hi>Seayds,</hi> who derive themſelves from <hi>Mahomet,</hi> who live much retired; but when they ap<g ref="char:EOLhyphen"/>pear openly, are moſt highly Reverenced. The <hi>Mogol</hi> him<g ref="char:EOLhyphen"/>ſelf would often viſit the Cells of thoſe he eſteemed Reli<g ref="char:EOLhyphen"/>gious, as if they had been Demi-Gods: As all Religions are there tolerated, ſo the <hi>Mogol</hi> would ſpeak well of all of them, and he would ſpeak moſt Reſpectfully of our Bleſſed Saviour Chriſt.</p>
+                  <p>And here may I inſert a very ſtrange Story, that the Author affirms he had from ſeveral credible Perſons of ſeveral Religions, of an Evidence or Atteſtation the Devil was forced to give to the Truth of the Chriſtian Religion.</p>
+                  <p>The Author relates, That (but a few years before his abode there) a Juggler of <hi>Bongala</hi> (a Kingdom fa<g ref="char:EOLhyphen"/>mous for Witches and Men of that Profeſſion) brought an Ape before the <hi>Mogol,</hi> (who was over greedy to pleaſe himſelf with Novelties,) profeſſing that he would do many ſtrange Feats or Tricks; the <hi>Mogol</hi> was ready preſently to make a trial of this, and forthwith called ſome Boys about him; and plucking a Ring from his Finger gave it one of them to hide, that he might make a trial whether or no the Ape could find it out; who preſently went to the Boy that had it. The <hi>Mogol</hi> made ſome farther Trials like this, where the Ape did his part
+<pb n="9" facs="tcp:101404:7"/>as before. And before the Ape was taken out of his Preſence, this ſtrange following and unexpected thing came into the King's mind: There are (ſaid he) many Diſputes in the World, about that true Prophet which ſhould come into the World. We, ſaid the <hi>Mogol,</hi> are for <hi>Mahomet,</hi> the <hi>Perſians</hi> Magnifie <hi>Mortis Hale,</hi> (being alſo Mahometans,) the Heathens or <hi>Hindoes</hi> have many whom they very highly Magnifie and Extol, as <hi>Bremaw,</hi> and <hi>Breman,</hi> and <hi>Ram,</hi> and <hi>Permiſſar;</hi> the <hi>Perſees</hi> are for <hi>Zortooſt,</hi> the <hi>Jews</hi> for <hi>Moſes,</hi> the Chriſtians for <hi>Chriſt;</hi> unto which he added three more, of which the Author had not their Names, which made up the number of Twelve, who have all their ſeveral followers in that part of the World; which Twelve names he cauſed to be written in Twelve ſeveral Scroles, and put together, to ſee if the Ape could draw out the name of the true Prophet. This done the Ape put his paw amongſt them and pull'd forth that Paper or Scrole with the name of <hi>Chriſt.</hi> The <hi>Mogol,</hi> a ſecond time cauſed thoſe Twelve Names to be written again in Twelve other Scroles and Characters, and put together, when the Ape, as before, pull'd forth the Name of <hi>Chriſt.</hi>
+                  </p>
+                  <p>Then <hi>Mahobet-Chan,</hi> a great Noble Man of that Court and in high Favour with the King, ſaid, That it was ſome Impoſture of the Chriſtians (although there were none that did bear that name there preſent) and deſired that he might make a third tryal, which granted, he put but Eleven of thoſe names together, reſerving the name of <hi>Chriſt</hi> in his Hand. The Ape ſearching as before, pull'd forth his Paw empty, and ſo twice or trice together, The King demanding a reaſon for this, was anſwered, That happily the thing he looked for was not there; he was bid to ſearch for it, and then putting out thoſe Ele<g ref="char:EOLhyphen"/>ven Names one after another, in a ſeeming indignation rent them; then running to <hi>Mahobet-Chan</hi> caught him by the Hand where the Name of <hi>Chriſt</hi> was concealed; which delivered to him, he opened the Scrole, and ſo held it up to the King, but did not tear it as the other. Upon which the <hi>Mogol</hi> took the Ape, and gave his Keep<g ref="char:EOLhyphen"/>er a Penſion for to keep him near about him, calling him the Divining Ape: And this was all that followed upon
+<pb n="10" facs="tcp:101404:8"/>this admirable thing, except the Wonder and Amaze<g ref="char:EOLhyphen"/>ment of that People. Now for this Relation the Author believed it was true, becauſe it had been often confir<g ref="char:EOLhyphen"/>med to him there by divers Perſons, who knew not one another, and were differing in Religion, yet all agreed in the Story, and all the Circumſtances thereof. But this by way of digreſſion.</p>
+                  <p>Alſo the Prieſts and Miniſters of any Religion, find Regard and Eſteem amongſt the People: As to my ſelf (ſaith the Author) who was very young while I lived there, yet when I was firſt brought into the <hi>Mogol</hi>'s Preſence, ſtanding near the Embaſſador, I being but a little diſtance from the <hi>Mogol,</hi> he ſent one of his Grandees to me to let me know that the King bad me Welcome thi<g ref="char:EOLhyphen"/>ther, that I ſhould have free acceſs to him when ever I pleaſed, and if I would ask any thing he would give it me. And very many times afterward, when I appeared before him, he ſtill would ſhew tokens of Ci<g ref="char:EOLhyphen"/>vility and Reſpect to me. And I never went abroad a<g ref="char:EOLhyphen"/>mong the People, but thoſe that met me upon this ac<g ref="char:EOLhyphen"/>count that I was a Padre (for ſo they called me) a Father or Miniſter; they would manifeſt by their Be<g ref="char:EOLhyphen"/>haviour much Reſpect to me. There was alſo as I have heard a Jeſuit of very much Fame and Renown, called <hi>Jeronimo Xaveria,</hi> who was ſent for by <hi>Achabar Sha,</hi> the late King's Father, 1595 to argue before him the Do<g ref="char:EOLhyphen"/>ctrine of Chriſtianity, there being always preſent du<g ref="char:EOLhyphen"/>ring the diſputation a <hi>Moolaas,</hi> or <hi>Mahometan</hi> Prieſt, and a Third Perſon, who followed only the Light of Na<g ref="char:EOLhyphen"/>ture; and theſe Two were to object what they could a<g ref="char:EOLhyphen"/>gainſt the Reaſoning of <hi>Xaveria.</hi>
+                  </p>
+                  <p>The ſaid Jeſuit, <hi>Xaveriá,</hi> in the <hi>Mogol</hi>'s own Lan<g ref="char:EOLhyphen"/>guage (which was a great advantage to him) began firſt to ſpeak of the Creation, and then of the Fall of Man, in which (ſaith the Author) the <hi>Mahometans</hi> a<g ref="char:EOLhyphen"/>gree with us.</p>
+                  <p>Then he laid down divers Grounds to bottom his Rea<g ref="char:EOLhyphen"/>ſonings on; <hi>viz.</hi>
+                  </p>
+                  <p>That Man was made by his Creation a moſt Excellent Creature, endured with the Light of Reaſon, which no other ſublunary Creature beſides himſelf had.</p>
+                  <pb n="11" facs="tcp:101404:8"/>
+                  <p>That Man, thus endued, muſt have ſome Rule or Law to walk by, which he could not preſcribe unto him<g ref="char:EOLhyphen"/>ſelf and therefore it muſt be given him from above.</p>
+                  <p>That this Law was firſt given unto man from God, and afterwards confirmed by Prophets ſent into the World, in divers Ages, from God.</p>
+                  <p>That this Law thus delivered muſt needs be one Law, in all things agreeing in it ſelf; but ſo did not the Law of <hi>Mahomet.</hi>
+                  </p>
+                  <p>That this thus delivered was moſt conformable to right Reaſon; But ſo was not the Law of <hi>Mahomet.</hi>
+                  </p>
+                  <p>That man fallen from God by ſin, was not able to reco<g ref="char:EOLhyphen"/>ver himſelf from that Fall; and, therefore it was ne<g ref="char:EOLhyphen"/>ceſſary, that there ſhould be One, more than a man, to do it for him, and that One could not be <hi>Mahomet.</hi>
+                  </p>
+                  <p>That this One was <hi>Chriſt,</hi> God as well as Man. God to ſatisfie, (the <hi>Mahometans</hi> themſelves confeſſing that <hi>Chriſt</hi> was the Breath of God) and Man to ſuffer death, as he did.</p>
+                  <p>That <hi>Chriſt</hi> the Son of God coming into the World, about that great work of ſatisfying God's Anger againſt man, for ſin, it was neceſſary that he ſhould live a poor and laborious life here on Earth, (at which the <hi>Maho<g ref="char:EOLhyphen"/>metans</hi> much ſtumble;) and not a Life that was full of Pomp, and Pleaſure, and Delicacy.</p>
+                  <p>That the Goſpel of <hi>Chriſt,</hi> and other holy Books of Scripture, which the <hi>Chriſtians</hi> retain and walk by, con<g ref="char:EOLhyphen"/>tain nothing in them that is corrupt and depraved; but there is very much to be found in their <hi>Alcoran</hi> which is ſo.</p>
+                  <p>That the great Worth and Worthineſs ſhining in the Perſon of <hi>Chriſt,</hi> was by far more ex ellent, than any thing obſervable in <hi>Mahomet;</hi> (for they themſelves con<g ref="char:EOLhyphen"/>feſs, that <hi>Chriſt</hi> lived without Sin, when <hi>Mahomet</hi> him<g ref="char:EOLhyphen"/>ſelf acknowledgeth, that he had been a filthy Perſon.)</p>
+                  <p>That the feigned, and fooliſh, and ridiculous Miracles which they ſay, were done by <hi>Mahomet,</hi> were nothing compar'd to the Miracles done by <hi>Chriſt,</hi> who (as the <hi>Mahometans</hi> confeſs) did greater Miracles than ever was done before or ſince him.</p>
+                  <p>That there was a great deal of difference, in the man<g ref="char:EOLhyphen"/>ner
+<pb n="12" facs="tcp:101404:9"/>of promulgating the Goſpel of <hi>Chriſt</hi> unto the World, and the introducing the Laws of <hi>Mahomet.</hi>
+                  </p>
+                  <p>That <hi>Chriſt</hi> hath purchaſed Heaven for all that believe in him, and that Hell is prepared for all others, that do not rely on him, and on him alone for Salvation.</p>
+                  <p>There were many other particulars beſides theſe; all which the King heard patiently at ſeveral times.</p>
+                  <p>And after he had heard him One Year and half he ſent him back to <hi>Goa</hi> honourably, with ſome good Gifts, telling him he would call for him again, when he had a convenient time, which Time or Seaſon neither of them both ever found afterwards.</p>
+                  <p>Theſe Diſcourſes with many more, were given me, (ſaith the Author) in Latin by <hi>Franciſco Corſi,</hi> a Je<g ref="char:EOLhyphen"/>ſuit, reſident at the <hi>Mogol</hi>'s Court: Who was a <hi>Floren<g ref="char:EOLhyphen"/>tine,</hi> aged about Fifty Years; who, (if he were what he ſeemed to be,) was a Man of a ſevere Life, yet of a fair and affable diſpoſition: When he came to be firſt ac<g ref="char:EOLhyphen"/>quainted with my Lord the Embaſſador; he told him, that they were both by Profeſſion <hi>Chriſtians;</hi> though there was a vaſt difference betwixt them in their pro<g ref="char:EOLhyphen"/>feſſing it. And as he ſhould not go about to reconcile the Embaſſador to them, ſo he told him it would be Labour, in vain, if he ſhould attempt to reconcile him to us; only he deſired that there might be a fair Cor<g ref="char:EOLhyphen"/>reſpondency betwixt them, but no diſputes. And fur<g ref="char:EOLhyphen"/>ther, his deſire was, that thoſe wide differences betwixt the Church of <hi>Rome</hi> and us, might not be made there to appear; That <hi>Chriſt</hi> might not ſeem by theſe differences to be divided amongſt men, profeſſing Chriſtianity; which might be a main Obſtacle and Hindrance unto the great Deſign and Endeavour, for which he was ſent thither, to convert people unto Chriſtianity there; and, that he ſhould be ready to do for my Lord, all good Offices of Love and Service; and ſo he was, (ſaith the Author.)</p>
+                  <p>The Precepts of <hi>Mahomet</hi> owned in the <hi>Mogol</hi>'s Coun<g ref="char:EOLhyphen"/>try are (ſaith the Author,) theſe that follow.</p>
+                  <list>
+                     <item>1. That God is a great God, and the only God; and <hi>Mahomet</hi> the Prophet of God.</item>
+                     <item>2. That Children muſt obey their Parents, and do
+<pb n="13" facs="tcp:101404:9"/>nothing to diſpleaſe them either in Word or Deed.</item>
+                     <item>3. That every one muſt do to another, that and only that, which he would have another do to him.</item>
+                     <item>4. That every man five times every day, muſt repair to the Moſquit or Church to pray there; or whereſo<g ref="char:EOLhyphen"/>ever he is he muſt pray every day ſo often; if not in the Church, then elſewhere.</item>
+                     <item>5. That during one whole Moon or Month in every Year, every man come to Years of Diſcretion, muſt ſpend the whole day, betwixt the riſing and ſetting of the Sun; in faſting.</item>
+                     <item>6. That every one out of his Store muſt give unto the poor freely and voluntarily.</item>
+                     <item>7. That every one (except the Votaries which re<g ref="char:EOLhyphen"/>nounce Marriage) muſt marry to increaſe and multiply the Sect and Religion of <hi>Mahomet.</hi>
+                     </item>
+                     <item>8. That no man muſt kill or ſhed Blood.</item>
+                  </list>
+                  <p>The ſaid <hi>Franciſco Corſi</hi> had not only free acceſs unto the King, but alſo Encouragement and Help by gifts he beſtowed upon him. Here the Jeſuits have a Liber<g ref="char:EOLhyphen"/>ty to convert any they can work upon; and the <hi>Mogol</hi> declared, Such ſhould not loſe his Favour by turning <hi>Chriſtians.</hi> And the Author ſaith, It was told him for a certain truth, That a Gentleman of Quality and a Ser<g ref="char:EOLhyphen"/>vant to the <hi>Mogol,</hi> would needs be Baptiz'd and become a Chriſtian: Whereupon the King ſent for him, and both by promiſes and by threats, ſtrongly attempted to turn him again to <hi>Mahometaniſm,</hi> (for a tryal, it ſeems of his conſtancy,) but he replied to the <hi>Mogol,</hi> That he was moſt willing to ſuffer any thing in that Cauſe, that the King could inflict, and as for the Rewards profer'd him, he would not accept of any thing in the World to forſake his ſaid Religion: Whereupon the <hi>Mogol</hi> won<g ref="char:EOLhyphen"/>dring at his conſtancy, told him, That if he could have frighted him or brought him out of his new Profeſſion, he would have made him an Example for all Waver<g ref="char:EOLhyphen"/>ers; but now he perceived that his Reſolution was indeed to be a Chriſtian; he bid him ſo continue, and with a reward diſmiſt him.</p>
+                  <p>Both the <hi>Mahometans</hi> and the <hi>Hindoes</hi> or <hi>Indians,</hi> give their Prieſts not only Honour and Reſpect as aforeſaid,
+<pb n="14" facs="tcp:101404:10"/>but allow them comfortable maintenance, and that freely without grudging.</p>
+               </div>
+               <div n="5" type="section">
+                  <head>
+                     <hi>5.</hi> In Building of fair Moſquits or Churches, and then not ſuffering them to be prophaned or converted to com<g ref="char:EOLhyphen"/>mon uſes.</head>
+                  <p>In the Moſquits or Churches of the <hi>Mahometans,</hi> built of Stone and many of them Marble, a man may take no<g ref="char:EOLhyphen"/>tice of excellent Workmanſhip; but they will not per<g ref="char:EOLhyphen"/>mit any of their dead to be Buried in them.</p>
+                  <p>And it was very obſervable at the City of <hi>Mandoa</hi> (a place Ruinous, where the <hi>Mogol</hi> for ſome time reſided) that there were not a few unfrequented Moſquits or Churches, and although the People were marvellouſly ſtreightned, who attended the King, for Room for their excellent Horſes, they would not make Stables of any of them, although forſaken and out of uſe. Alſo the late <hi>Mogol,</hi> about the beginning of his Reign, cauſed a Tem<g ref="char:EOLhyphen"/>ple to be built in <hi>Agra,</hi> his chief City, for the Jeſuits.</p>
+                  <p>Another principal or choice City of his Empire, be<g ref="char:EOLhyphen"/>ing called <hi>Lahore,</hi> betwixt which and <hi>Agra</hi> is a long Walk or Road of 400. Miles in length, ſhaded by Trees on both ſides, which is very remarkable.</p>
+                  <p>There are, beſides their Moſquits, many other goodly Monuments which are richly adorn'd, built to the me<g ref="char:EOLhyphen"/>mory of ſuch as they have eſteemed <hi>Paeres</hi> or Saints, (of whom they have a large Calendar,) in which are Lamps continually burning, attended by Votaries; and many tranſported with Devotion daily reſort thither to con<g ref="char:EOLhyphen"/>template the Happineſs thoſe Saints enjoy.</p>
+                  <p>Now as to the <hi>Hindoes</hi> or <hi>Indians,</hi> the Author was in<g ref="char:EOLhyphen"/>formed that at a chief City called <hi>Nagracet,</hi> they have an Idol Temple or Chapel, moſt richly ſet forth, being Seeled and Paved with plates of pure Silver, curiouſly Emboſſed over head in ſeveral Figures, which they keep exceed<g ref="char:EOLhyphen"/>ing bright by often rubbing and burniſhing it, and all this to the honour of an Idol they keep there, called <hi>Matta.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="15" facs="tcp:101404:10"/>
+               <head>
+                  <hi>2.</hi> Their Juſtice and Righteouſneſs to Men, and Temperance and Chaſtity as to them<g ref="char:EOLhyphen"/>ſelves.</head>
+               <div n="1" type="section">
+                  <head>
+                     <hi>1.</hi> In their Dutifulneſs to their Parents.</head>
+                  <p>THey are (ſaith the Author) exemplary in their Piety and Dutifulneſs to their Parents. The poor <hi>Hindoes</hi> and <hi>Heathens,</hi> notwithſtanding they ſerve for very little, but for Five Shillings a Moon or Month for their whole Livelihood; yet they will impart at the leaſt, half that little when their Parents are in want, chooſing rather to want themſelves than that their Parents ſhould ſuffer.</p>
+                  <p>Yea the Great <hi>Mogol</hi> or Prince (as the Author teſti<g ref="char:EOLhyphen"/>fies) would often ſhew great Expreſſions of Duty and ſtrong Affections to his Mother then living, ſo that he that eſteemed the whole World as his Vaſſals, would ſometime be one to help to carry her in a Palankee upon his Shoulders.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>
+                     <hi>2.</hi> In their Loyalty, Fidelity and great Affections to their Prince, and humble Subjection to their Superiors.</head>
+                  <p>The People in general have ſo great Reſpects to their Prince, that although (being very neat) they ſhave them<g ref="char:EOLhyphen"/>ſelves often, yet when their Prince is pleaſed to ſend any of them unto any place of Government, or upon any other Imployment, they cut not their Hair at all, till they return again into his Preſence, as if they deſired not to appear beautiful, or to give themſelves any con<g ref="char:EOLhyphen"/>tent while they live out of his ſight. And when ever the <hi>Mogol</hi> ſends his Commands to them by Letters, thoſe Papers are entertained with as much reſpect as if him<g ref="char:EOLhyphen"/>ſelf was preſent. The Governor to whom they are ſent, well accompanied, goes out to meet the Meſſenger; and as ſoon as he ſees the Letters, he alights from his Horſe, falls down on the Earth, and then takes them from the
+<pb n="16" facs="tcp:101404:11"/>Meſſenger, and lays them on his Head, ſo carries them to the place of publick Aſſembly or Council to be read. And the <hi>Mogol</hi>'s Subjects, that are near him, will attend many of them conſtantly to ſee him, when he expoſes himſelf, for that purpoſe, in a Balcony, as he uſually doth three times a day: And when they ſee him they will cry out with a loud voice, Live, O great King; or thus, O great King, Health and Life; and his ſub<g ref="char:EOLhyphen"/>jects will do any thing he commands them; yea, if it be for the Father to kill the Son, or the Son the Fa<g ref="char:EOLhyphen"/>ther.</p>
+                  <p>The People all in general are very civil, and uſually keep themſelves within the bounds of commands received from their Superiours, over which they do not paſs. They happily conſidering, that as in a natural Body, ſo in a Body politick, there muſt be Hands and Feet as well as Head, and every part muſt keep its Station, the Foot not meddling with the buſineſs of the Head, further than to receive commands from it. And the meaner ſort, to their Superiors, uſe theſe abject and lowly ce<g ref="char:EOLhyphen"/>remonies of Reverence, by putting their Right Hand to the Earth.</p>
+               </div>
+               <div n="3" type="section">
+                  <head>
+                     <hi>3.</hi> In their Civilities to each other and to Strangers; and their compaſſionate and merciful Natures to all, even the poor Beaſts; yea alſo, even to noxious Animals.</head>
+                  <p>In their intimate and hearty Salutes, they take one another by the Chin, and cry either Father or elſe Bro<g ref="char:EOLhyphen"/>ther; they expreſs in words their minds in theſe good wiſhes to one another, God give you Health, and the other replys, The ſame Health God give you; I wiſh you the Prayers of the Poor, I wiſh one Good after ano<g ref="char:EOLhyphen"/>ther to come to you every quarter of an hour. The people are here generally as Civil to Strangers, as to their own Country-men: The better ſort, when they entertain you, do it with much Humanity, firſt riſing up to you, they bow their Bodies, and then intreat you to ſit with them.</p>
+                  <p>They are very tender in preſerving the Lives of all In<g ref="char:EOLhyphen"/>ferior Creatures whatever; and the <hi>Banjans,</hi> or the
+<pb n="17" facs="tcp:101404:11"/>Prieſts of theſe <hi>Hindoes,</hi> have (as they ſay) Spittles to recover Lame Birds and Beaſts. And this from this conſideration, That they cannot give Life to the meaneſt Creature; But I rather think they do it (ſaith the Author) in Obedience to a certain Precept, given to them by their Prophet or Lawgiver <hi>Bremaw,</hi> before mentioned, as alſo that the Opinion of the Tranſmigration of Souls may probably be another Cauſe.</p>
+               </div>
+               <div n="4" type="section">
+                  <head>
+                     <hi>4.</hi> In their Chaſtity and great deteſtation of Adultery and Fornication alſo, and the great reſpects their Widows ſhew to their deceaſed Husbands.</head>
+                  <p>It is true, the Law of <hi>Mahomet</hi> allows four Wives to any that pleaſe to be troubled with ſo many, and as ma<g ref="char:EOLhyphen"/>ny Women beſides as they can get, whom they command as Wives. The great <hi>Mogol</hi> (ſaith the Author) is ſaid to be married to Four Wives, and to have a Thou<g ref="char:EOLhyphen"/>ſand Concubines, yet he had but Six Children: The Mahometan Prieſts content themſelves with one Wife, and ſo do ſome other Mahometans who may marry four. One of the <hi>Mogol</hi>'s Sons, <hi>Sultan Coob-Surroo,</hi> a Prince of a very lovely Preſence, fine Carriage, and the very love and delight of the common People, (by means whereof he had been tempted into Rebellion in his young<g ref="char:EOLhyphen"/>er days;) contented himſelf with one Wife, which with all Love and Care accompanied him in all his Streights.</p>
+                  <p>The ſaid Prince meeting one day accidentally with the <hi>Engliſh</hi> Embaſſador, and diſcourſing him, amongſt other things told him, That it was a great ſhame for the Suc<g ref="char:EOLhyphen"/>ceſſor of <hi>Tamberlane,</hi> who had ſuch infinite Riches, to ſuffer a Man of his Quality to come ſo far unto him and to live ſo long about him, and not to give him ſome Royal gift. And he farther added, That for himſelf he was a Priſo<g ref="char:EOLhyphen"/>ner, and therefore could do him no good, but he would pray for him; and ſo he parted from the Embaſſador. The ſtrict Votaries of that Religion marry not at all: And it is obſerved, that thoſe Mahometans, who have moſt Wives and Women, are moſt jealous, and their Jealouſie is ſuch, that they will not ſuffer the Brothers, or the Fathers of their Wives to come to them, except in
+<pb n="18" facs="tcp:101404:12"/>their preſence. And a continued Cuſtom, by this re<g ref="char:EOLhyphen"/>ſtraint, hath made it odious for ſuch Women as have the Reputation of honeſty, to be ſeen at any time by any man beſides their own Husbands, and ſuch as thoſe before named their Relations, and by them but very ſeldom. But if they diſhonour their Husband's Beds; or being unmarried are found incontinent and filthy, (profeſſing Chaſtity,) rather than they ſhall want the ſevereſt Puniſhment, their own Brothers hands will be firſt againſt them, to take away their Lives, and for ſo doing ſhall be commended, and not queſtioned for the ſame.</p>
+                  <p>Here is a free Toleration, notwithſtanding, for Whores, who are Liſted and Enrolled (as they ſay) before they can have liberty to keep ſuch an open Houſe. Some of the finer ſort of theſe Strumpets, at certain times, ap<g ref="char:EOLhyphen"/>pear in the preſence of the <hi>Mogol,</hi> before whom they ſing their wanton Songs, playing on their Timbrels.</p>
+                  <p>As for the <hi>Hindoes</hi> or <hi>Indians,</hi> they take but one Wife, and of her they are not ſo fearful and jealous as the Ma<g ref="char:EOLhyphen"/>hometans are of their ſeveral Wives and Women; they alſo ſuffering their Wives to go abroad whither they pleaſe. Their Widows immediately after their Hus<g ref="char:EOLhyphen"/>bands are dead, cut their Hair, and ſpend all their Lives following, as Creatures, neglected both by themſelves and others; whence to be free from ſhame, ſome of them are ambitious to die with honour in their Husband's Funeral Pile, and ſhe that is once thus reſolved never ſtarts back, but goes ſinging to her death; and although not bound, yet never offers to ſtir out of the Flames.</p>
+                  <p>There are another ſort of Heathens (as I mentioned before) in <hi>Indoſtan</hi> or <hi>India,</hi> called the <hi>Perſees,</hi> who take alſo but one Wife, who hath liberty to go abroad, as the Wives of the <hi>Hindoes.</hi>
+                  </p>
+                  <p>The Mahometans being very jealous (and as <hi>Solomon</hi> ſpeaks) Jealouſie being the Rage of a Man, ſo emi<g ref="char:EOLhyphen"/>nently it appeared ſuch in this ſad Story related by the Author. <hi>viz.</hi> The <hi>Mogol,</hi> ſaith he, one day found one of his Eunuches kiſſing one of his Women, whereupon he put her to this cruel death; cauſed her to be ſet in a hole in the ground up to her Head, there to be parch'd and
+<pb n="19" facs="tcp:101404:12"/>kill'd by the violent heat of the Sun. In which torment ſhe lived one whole day and the night following, until the next day at Noon, crying out moſt lamentably, Ah! my head, my head; and the Eunuch was brought to the ſame place, and there in her ſight was cut in pieces; ſo hateful a thing Adultery is to them, or ſo much as a ſign of unlawful Wantonneſs in their Women.</p>
+               </div>
+               <div n="5" type="section">
+                  <head>
+                     <hi>5.</hi> In their great Temperance and Moderation in Meat and Drink.</head>
+                  <p>Neither the <hi>Mahometans</hi> nor <hi>Hindoes,</hi> as I conceive (ſaith the Author) are given to their Palate, although the Country affords great Plenty of excellent good Pro<g ref="char:EOLhyphen"/>viſion, but are very careful and temperate in their Diet. The <hi>Mahometans</hi> feed not freely on any Fleſh. Such Meat and Drink as their Law allows, they take only to ſatis<g ref="char:EOLhyphen"/>fie Nature: The word for a Drunkard ſignifies alſo a Mad-man: And the <hi>Hindoes</hi> or <hi>Indians</hi> in general, eat no Beef at all, having a great eſteem of Kine, but ſome of them, and eſpecially the <hi>Banjans</hi> in general, which are a very ſtrict Sect among them, will eat of nothing that hath had or may have Life; others will eat Fiſh and no living thing elſe. And both the <hi>Mahometans</hi> and the <hi>Hindoes</hi> or Heathens moſt of them will rather die than taſte any thing their Law forbids, like the <hi>Rechabites.</hi> By reaſon of their great Temperance in Eating and Drink<g ref="char:EOLhyphen"/>ing, (as the Author affirms) they live to our Age, notwithſtanding the great and intemperate heat of the Country, and there are more old People among them than among us. And as for Wine they make none, be<g ref="char:EOLhyphen"/>cauſe their Law forbids the drinking it.</p>
+               </div>
+               <div n="6" type="section">
+                  <head>
+                     <hi>6.</hi> In their great Induſtry, Laboriouſneſs, and Diligence in their Callings and Trades.</head>
+                  <p>The <hi>Mahometans</hi> in general, it is true, being the Lords and Conquerors of the Country, are given to an idle courſe of Life; but the <hi>Hindoes</hi> or <hi>Indians,</hi> thoſe ancient Inhabitants of the Country, are a very induſtrious People. It is true, all their Learning is only to Read and Write,
+<pb n="20" facs="tcp:101404:13"/>yet many of them are men of very ſtrong Reaſon, and I never ſaw (ſaith the Author) any Idiot or deformed Perſon among them. They are in ſhort very Laborious, they plant the Ground, breed Cattle, and make all manner of Manufactures of the Country, making uſe of their Hands, Fingers, Ears, Feet, and Toes in ſome of them. They ſhew much Ingenuity in their curious Manu<g ref="char:EOLhyphen"/>factures, their Silk Stuffs which they moſt artificially Weave, intermixt with Gold and Silver ſometimes, as alſo in ſtain'd Callicoes, and all other their <hi>Indian</hi> Quilts, Carpets, <hi>&amp;c.</hi>
+                  </p>
+               </div>
+               <div n="7" type="section">
+                  <head>
+                     <hi>7.</hi> In the great Diligence, Induſtry, and Fidelity of the <hi>Hindoes</hi> or <hi>Indian</hi> Servants.</head>
+                  <p>They ſerve for reaſonable Wages (never exceeding Five Shillings a Moon or Month) with which they are well ſatisfied, paid uſually to them the next day after the Change, before hand; and they ſtand to be hired in the Market place uſually; and if their Salary be not paid to them exactly at the time, they will be ready to quit their Service; but ſo honeſt are they, that if they be bidden to provide themſelves of other Maſters, they will not ſtir but ſerve out the time for which they have received pay, yea even to an hour, before they depart. And as their Fidelity is great, ſo is alſo their Diligence very Exemplary; they keep within call of their Maſters, and will not at any time ſtir without leave, eſpecially had from their Maſters.</p>
+               </div>
+               <div n="8" type="section">
+                  <head>
+                     <hi>8.</hi> In their great Fidelity in Truſts committed to them.</head>
+                  <p>The <hi>Mahometans,</hi> but more eſpecially the ſaid <hi>Hindoes</hi> or <hi>Indians</hi> are very ſquare and exact to make good all their Engagements, and ſo faithful as to ſpecial Truſts committed to them, that if they be aſſaulted at any time, they will rather die in the defence of their Truſt than forſake it, and thoſe that intruſt them in time of their need: And if they be intruſted with the Carriage or Security of any Riches, and they know of the Riches you carry, they would be ſo far from injuring or wrong<g ref="char:EOLhyphen"/>ing
+<pb n="21" facs="tcp:101404:13"/>you of the leaſt Penny of it, that whoſoever ſhould attempt the Robbing or Spoiling of you, they muſt make a way through their Blood before they could be able to effect it.</p>
+               </div>
+               <div n="9" type="section">
+                  <head>
+                     <hi>9.</hi> In their exact Juſtice and Honeſty in their way of trade in Buying and Selling.</head>
+                  <p>As by the Laws or Cuſtoms currant among them in <hi>India,</hi> they impriſon for debt and hang fetters on them, ſo many times they will ſell their perſons who are the debtors, and their Wives and Children into bondage when they cannot ſatisfie their debts. The <hi>Hindoes</hi> or <hi>Indians</hi> are ſo very juſt in their dealings, that if a man will put it to their conſciences to ſell the Commodity as low as they can afford it, they will deal honeſtly and ſquarely with him; but if a man offer them much leſs than their price, they will preſently ſay, What, doſt thou think me a Chriſtian that would go about to deceive thee? ſurely (as the Author ſpeaks) for moral honeſty it is moſt true, that theſe Heathens do marvellouſly ex<g ref="char:EOLhyphen"/>ceed us Chriſtians; for many of theſe <hi>Indians,</hi> poor ſouls, walk according to that light of nature they have, and are unreproveable in theſe reſpects, and doubtleſs if they knew more and better would do better in other things.</p>
+               </div>
+               <div n="10" type="section">
+                  <head>
+                     <hi>10.</hi> In their ſobriety as to their <hi>Apparel.</hi>
+                  </head>
+                  <p>As they are civil and courteous in their Speeches and Behaviour, (as was mentioned before) ſo are both the <hi>Mahometans,</hi> and the ancient natives, the <hi>Hindoes,</hi> modeſt and civil in their habits, being much alike herein. They are all very civilly clad; they never pride it in any new faſhions. The habits of all from the higheſt to the loweſt are all made of the ſame faſhion, which they ne<g ref="char:EOLhyphen"/>ver alter or change: pure white and fine Callicoe Lawn is for the moſt part the higheſt of all their Bravery, which uſually they waſh every day: the Women go habited ſome<g ref="char:EOLhyphen"/>what like the Men, thoſe of them of greateſt quality are adorned with many Rich Jewels.</p>
+               </div>
+               <div n="11" type="section">
+                  <pb n="22" facs="tcp:101404:14"/>
+                  <head>
+                     <hi>11.</hi> In their Charity.</head>
+                  <p>They have no Inns for Travellers; and therefore, in great Towns eſpecially, Rich men out of Charity, build large Sarraas or Houſes for lodging, where any Tra<g ref="char:EOLhyphen"/>vellers may find houſe-room, and uſe it without any re<g ref="char:EOLhyphen"/>compence. Other Rich men make publick Wells and Tanks or Fountains for publick uſe and benefit. Others maintain Servants, who continually attend upon Road<g ref="char:EOLhyphen"/>ways that are much travelled, and there offer unto Paſ<g ref="char:EOLhyphen"/>ſengers water for themſelves and their Beaſts, which muſt be freely taken, as it is freely given. The <hi>Mogol</hi> doth continually relieve many poor people.</p>
+                  <p>Alſo to conclude this Section I ſhall relate a generous and noble piece of Charity and Mercy in a great man in par<g ref="char:EOLhyphen"/>doning a moſt high affront and abuſe offered him by one of our Nation, an <hi>Engliſh</hi>-man: The buſineſs was thus: At <hi>Surat</hi> the Embaſſador's Servant, his Cook, being one day drunk, and ſtaggering homeward, in his way met the Governor of <hi>Surat</hi>'s Brother, as he was riding to his Houſe; the Cook made a ſtand ſtaying himſelf upon his Sword and Scabbard, and cried out to the Go<g ref="char:EOLhyphen"/>vernor's Brother, Now thou Heathen Dog. He not un<g ref="char:EOLhyphen"/>derſtanding his foul Language, replied civilly in his own, <hi>Ca-ca-ta?</hi> which ſignifies, What ſaiſt thou? The Cook anſwered him with his Sword and Scabbard, with which he ſtruck at him, but was immediately ſeized on by his followers, and by them diſarmed and carried to Priſon. The Embaſſador had preſent Intelligence of this abuſe by his drunken Servant, and immediately ſent word unto the Governor's Brother, that he was-not come thither to countenance any diſorderly Perſon, and therefore deſired him to do with him what he pleaſed; upon which he preſently ſent him home, not doing him the leaſt hurt. But as the Author well obſerves, who was the Heathen Dog at this time? whether the de<g ref="char:EOLhyphen"/>bauch'd drunken Cook, who called himſelf a Chriſtian, or that Sober and Temperate Mahometan, who was thus affronted?</p>
+               </div>
+               <div n="12" type="section">
+                  <pb n="23" facs="tcp:101404:14"/>
+                  <head>
+                     <hi>12.</hi> In their ſpeedy Juſtice in their Courts or Judicatures, and their quick Executions of Malefactors.</head>
+                  <p>Although (ſaith the Author) I could never learn any Laws they had, yet they always pretend to proceed in their Tryals in their Courts, <hi>ſecundum allegata &amp; probata,</hi> according to proof of Matter of Fact. Murder and Theft they puniſh with Death, and with what kind of Death the Judge pleaſeth to appoint: Some are Hang'd, ſome Beheaded, ſome Empailed and put upon Stakes, ſome torn in pieces by wild Beaſts, ſome ſtung to death with Snakes, and others kill'd by Elephants.</p>
+                  <p>The great <hi>Mogol</hi> will himſelf ſit as Judge in any matters of Conſequence, that happen near him.</p>
+                  <p>There are no Malefactors that lie more than one night in Priſon, and many times not at all, being ſpeedily up<g ref="char:EOLhyphen"/>on his or their offence brought to their Tryal, and from their Sentence to their Execution. And this round Dea<g ref="char:EOLhyphen"/>ling, and quick Juſtice, and Execution (as the Author thinks) keep? the People in ſuch awe, as that there are not many Malefactors.</p>
+                  <p>Now may I add alſo here (as not impertinent) a re<g ref="char:EOLhyphen"/>markable Relation of the Author of the death of a great Mahometan, Atheiſt, and Contemner of God. There was, ſaith he, a very Eminent Man, a great Souldier, and in high Favour with the <hi>Mogol,</hi> but was noted above others of the Nation, to be a great Contemner and neg<g ref="char:EOLhyphen"/>lecter of God; who on a certain time ſitting in daliance with one of his Women, ſhe pluckt an hair from his Breaſt, which grew about his Nipple, in Wantonneſs, without the leaſt thought of doing him hurt: But that little wound preſently began to feſter, and became afterward incurable. When he ſaw he muſt die he uttered theſe words.</p>
+                  <p>
+                     <q rend="margQuotes">Who would not have thought but that I, who have been ſo long bred a Souldier, ſhould have died in the Face of my Enemy, either by a Sword, or a Launce, or an Arrow, or Bullet, or by ſome ſuch Inſtrument of Death. But now (though too late) I am forced to confeſs, That there is a great God above, whoſe Ma<g ref="char:EOLhyphen"/>jeſt I have ever deſpiſed, that needs no bigger Lance
+<pb n="24" facs="tcp:101404:15"/>than an hair to kill an Atheiſt, a deſpiſer of his Majeſty.</q> And ſo deſiring that theſe his laſt words might be told unto the King his Maſter, he died.</p>
+               </div>
+               <div type="section">
+                  <head>Some further remarkable Paſſages omitted in the former Impreſſion.</head>
+                  <p>The <hi>Mahometans</hi> begin their Year the tenth of <hi>March,</hi> but the <hi>Hindoes</hi> or <hi>Indians</hi> the firſt of <hi>March;</hi> and their Year is divided into thirteen Months or Moons, dividing the Day into four parts, and ſo alſo the Nights; which they ſubdivide into eight parts, meaſured according to the Ancient Cuſtom, by Water dropping out of one Veſſel into another; by which there ſtands a man to turn that Veſſel up again, and then ſtrikes with a hammer up<g ref="char:EOLhyphen"/>on a concave piece of metal to give notice of it. They having no other Clocks or Sun-dials (ſaith the Author.)</p>
+                  <p>The <hi>Hindoes</hi> or <hi>Indians</hi> (ſaith the Author) believe there are Devils, but that they are ſo fettered that they cannot hurt them.</p>
+                  <p>The Women are habited (ſaith the Author) ſome<g ref="char:EOLhyphen"/>what like the Men, they have their Ears bored in ſeve<g ref="char:EOLhyphen"/>ral places for little Pendants; and the lower part of their left Noſtrils, where they wear a ring, with little Pearls hanging at it when they pleaſe.</p>
+                  <p>As to the great <hi>Mogol</hi>'s Leſkar, or Camp-Royal (ſaith the Author) it conſiſts of a vaſt number of Tents, all of them white, but only the <hi>Mogol</hi>'s, which is red, and far higher than the reſt: This ſaid Camp is at leaſt five miles from ſide to ſide of the ſame. The <hi>Mogol</hi> having one hundred thouſand Souldiers waiting always upon him, beſides the Grandees near him carry their Wives and Families along with them, which makes up an exceed<g ref="char:EOLhyphen"/>ing great number of Attendants upon him. When the Camp removes, the <hi>Mogol</hi> gives notice, by drums beating about mid-night.</p>
+                  <p>There was two Comets or blazing-Stars (ſaith the Author) appeared while I lived at the <hi>Mogol</hi>'s Court; the one, Northward, like a long blazing Torch or Lance fired at the end; The other, Southward, was round like a boiling pot boiling out fire. And although the A<g ref="char:EOLhyphen"/>ſtrologers
+<pb n="25" facs="tcp:101404:15"/>told the <hi>Mogol</hi> that he needed not fear, for they concerned not him nor his; but other places. But not long after, theſe blazing-Stars appeared, their uſu<g ref="char:EOLhyphen"/>al Seaſon of Rain (which was never known to fail them till then) failed them, and this cauſed ſuch a Famine and Mortality in the <hi>South</hi> parts of his Empire, that it did very much unpeople it. And in the <hi>Northern</hi> parts of his Dominions the <hi>Mogol</hi>'s ſon, <hi>Sultan Caroon,</hi> raiſed a Rebellion againſt his Father, who was overthrown and taken Priſoner, and kept in Confinement by his Fa<g ref="char:EOLhyphen"/>ther.</p>
+               </div>
+            </div>
+            <div type="conclusion">
+               <head>The Concluſion.</head>
+               <p>NOW, O Chriſtians, conſider ſeriouſly all theſe things faithfully related by the Reverend and Worthy Author.</p>
+               <p>Firſt, Shall Mahometans not mention the name of our Saviour, at any time, but with high reverence and reſpect; and ſhall we, Chriſtians, not learn good man<g ref="char:EOLhyphen"/>ners towards our Bleſſed Lord and Maſter, but daily ex<g ref="char:EOLhyphen"/>preſs our contempt of him, by our Blaſphemies, Oaths and Curſes?</p>
+               <p>Shall the poor Heathens believe that God hath a thou<g ref="char:EOLhyphen"/>ſand Eyes and a thouſand Hands; and yet we Chriſti<g ref="char:EOLhyphen"/>ans live ſo as if we did not believe he had one Eye to ſee, or one Hand to revenge the Violation of his Laws?</p>
+               <p>Shall <hi>Mahometans</hi> (whatever Diverſions or Impedi<g ref="char:EOLhyphen"/>ments they meet with) be Five times a day (after great preparations) with very great Reverence and humble Adoration, even with their Faces to the ground, at their Devotions in their Moſquits or Churches, if they con<g ref="char:EOLhyphen"/>veniently can come at them, however elſe where? And ſhall we Chriſtians make no conſcience of our being twice a day (after due preparation) at our Devotions at our Churches, (if it may be) with lowly Reverence and humble Adoration upon our Knees? But however, if that cannot be, at leaſt in our own Habitations.</p>
+               <pb n="26" facs="tcp:101404:16"/>
+               <p>Shall both <hi>Mahometans</hi> and Heathens be ſtrict obſer<g ref="char:EOLhyphen"/>vers of their Sabbaths and other Feſtivals, and times of publick Devotions, and their times of <hi>Lent,</hi> of Mortifi<g ref="char:EOLhyphen"/>cation and Faſting; and that with great Affection, Re<g ref="char:EOLhyphen"/>verence and Adoration? And ſhall we Chriſtians be in<g ref="char:EOLhyphen"/>different, and careleſs, and remiſs in the Religious Ob<g ref="char:EOLhyphen"/>ſervation of our Sabbaths or Lord's days, and other Faſts and Feſtivals of the Chriſtian Church, and of our <hi>Lent</hi> and times of Mortification, and come ſhort of them in our Affections, Reverence and Devotion at thoſe holy Aſſemblies?</p>
+               <p>Shall the <hi>Mahometans</hi> and Heathens be zealous and in good earneſt in their Religion, for the promoting the ſame; yea have many ſtrict Votaries therein, that im<g ref="char:EOLhyphen"/>poſe upon themſelves great Self denials, very ſharp and ſtrict Pennances? And ſhall we Chriſtians be careleſs and indifferent in our Chriſtian and Holy Religion, and not matter what becomes of it, even betraying the cauſe of Chriſtianity, while we faintly maintain it? (And they, certainly, would hardly die for <hi>Chriſt</hi> who dare not ſpeak for his honour (as one hath well obſerved.) And ſhall we ſcoff at all Chriſtian Self-denials and Morti<g ref="char:EOLhyphen"/>fications, and deny our ſelves in none of our ſenſual car<g ref="char:EOLhyphen"/>nal Pleaſures and Vanities; but think to ſwim with eaſe to Heaven through a Deluge and Sea of Senſuality, and worldly Delights?</p>
+               <p>Shall both <hi>Mahometans</hi> and Heathens have their Prieſts in very great Eſteem and Veneration, never, at any time, meeting them in the Street, or any other place, but teſtifying the ſame by lowly reverencing them; and alſo allowing them comfortable maintenance? And ſhall we Chriſtians ſlight, neglect, and deſpiſe our Prieſts and Miniſters, our Spiritual Fathers; yea teſtifie the ſame to their Faces, when we meet them, by our rude and ir<g ref="char:EOLhyphen"/>reverent Behaviour towards them? And grudge and re<g ref="char:EOLhyphen"/>pine at their competent and comely maintenance, which not our ſelves but the Laws of our pious Anceſtors have beſtowed and ſetled upon them? And this, notwith<g ref="char:EOLhyphen"/>ſtanding, our bleſſed Lord and Maſter hath plainly told us. That <hi>he that deſpiſeth you</hi> (meaning his Apoſtles and Miniſters) <hi>diſpiſeth me, and he that deſpiſeth me, deſpiſeth him that ſent me.</hi>
+               </p>
+               <pb n="27" facs="tcp:101404:16"/>
+               <p>Shall both <hi>Mahometans</hi> and Heathens, be at a great deal of pains and coſt, to erect neat and ſplendid Moſ<g ref="char:EOLhyphen"/>quits and Tempies, for the Worſhip of God and of their Idols; not ſuffering them to be polluted and prophaned in any kind, not ſo much as ſuffering their dead to be bu<g ref="char:EOLhyphen"/>ried therein? And ſhall they have, in great eſteem, thoſe who are zealous in their Religion, build alſo ſtately Monuments for the honour, and to preſerve the memo<g ref="char:EOLhyphen"/>ries of their deceaſed Saints and Devotes of their Reli<g ref="char:EOLhyphen"/>gion? And ſhall we Chriſtians be negligent in Repair<g ref="char:EOLhyphen"/>ing and Beautifying our Churches built ready to our Hands? Shall our Chriſtian Temples lie neglected; yea, many of them Ruinous, very many, if not moſt of them (in the Country) like places rather for the entertain<g ref="char:EOLhyphen"/>ment of Beaſts, than for Men and Women to worſhip God in? And thus lying deſpiſed, neglected, propha<g ref="char:EOLhyphen"/>ned; Are they not more alſo Polluted and Unhallowed many times by our aſſembling there, by means of our ſordid Irreverence, by our ſlight, careleſs, ſlovingly, inanimate ſerving of the living God in them? And ſhall we Chriſtians ſcorn, contemn, and deride the Devotes in that Religion, which we profeſs to own as ours? And ſhall we ſlight and neglect thoſe days and times appointed to commemorate our Saints and Servants of God, famous in their Generations, for their Sanctity, Labours and Sufferings?</p>
+               <p>Shall <hi>Mahometans</hi> and Heathens be exemplary in their dutifulneſs to their Parents, eſpecially the poor Hea<g ref="char:EOLhyphen"/>thens, not ſuffering, at any time, their Parents to be in want, but parting with half of that little they have for their ſupport and ſubſiſtence? And ſhall there be ſuch horrid complaints among us Chriſtians, of the un<g ref="char:EOLhyphen"/>dutifulneſs (if not Barbarity) of Children to their Pa<g ref="char:EOLhyphen"/>rents in our days; that it would make a man's ears to tingle and heart to ake, to hear all that may be ſaid in this Reſpect?</p>
+               <p>Shall both <hi>Mahometans</hi> and Heathens have very great Reſpects and Reverence for their Superiors and Gover<g ref="char:EOLhyphen"/>nors, for the preſervation of Order and Government, and publick Peace? And more eſpecially, ſhall they abound in affectionate Loyalty to their Prince and Sove<g ref="char:EOLhyphen"/>reign,
+<pb n="28" facs="tcp:101404:17"/>although a Tyrant? And ſhall we Chriſtians be deficient herein; yea, untractable, mutinous, and re<g ref="char:EOLhyphen"/>bellious againſt our Governors, and ſo highly diſloyal as to reſiſt the Lord's anointed, our gracious Prince, when our Religion, nevertheleſs, aſſureth us, That they that reſiſt ſhall receive to themſelves Damnation?</p>
+               <p>Shall there be much love, and good will, and accord among Heathens one towards another, as alſo equally exhibited by them to Strangers; yea, extending their good Nature, Humanity and Pity, even to the very bruit Creatures ſubjected to their uſe? And ſhall we Chriſtians, abound in diſcord and diſſention, and ſhall we malign, hate, bite and devour one another, and make our Lord and Maſter, the Prince of Peace, a Pa<g ref="char:EOLhyphen"/>tron of Diſſention, and his Goſpel of Peace a Religion of Diſcord? And ſhall we be more uncivil to Strangers than theſe Heathens; and alſo be cruel and mercileſs towards our Beaſts, when as our Religion alſo inſtructs us, That a good Man is merciful to his very Beaſt?</p>
+               <p>Shall both <hi>Mahometans</hi> and Heathens have a great de<g ref="char:EOLhyphen"/>teſtation of Unchaſtity, eſpecially in ſuch ſingle Women who pretend to it; and ſo great an abhorrence of Adul<g ref="char:EOLhyphen"/>tery, that the very Relations and Kindred of the Offen<g ref="char:EOLhyphen"/>ders, of either ſort, will be themſelves their ſpeedy Exe<g ref="char:EOLhyphen"/>cutioners, and deprive them of their Lives, and think they do a juſt Act therein (their Law permitting it?) And ſhall we Chriſtians, who own a Religion of the greateſt ſtrictneſs and purity in the World, make little account of theſe Sins, as if we had forgot our Religion, and were transformed into Beaſts; and having loſt all ſhame and modeſty, deſign to vie with <hi>Sodom?</hi>
+               </p>
+               <p>Shall both <hi>Mahometans</hi> and Heathens not indulge their Palates, but be very temperate and moderate in Eating and Drinking, and have ſuch an abhorrence of Drunken<g ref="char:EOLhyphen"/>neſs, that they have but one word in their Language to ſignifie both a Drunkard and a Mad-man? And ſhall we Chriſtians be the Epicures of the World, ſo abound in Exceſs, Debauchery and Drunkenneſs, and without all ſence of ſhame and in the ſight of the Sun, as if we were the Diſciples and Votaries of the drunken God <hi>Bacchus?</hi> Shall that Sin of Drunkenneſs which is the Mother of Hea<g ref="char:EOLhyphen"/>vineſs,
+<pb n="29" facs="tcp:101404:17"/>the joy of none but the Devil, and is big with a Thouſand Evils, (as one of the Fathers ſpeaks) over<g ref="char:EOLhyphen"/>ſpread the Nation?</p>
+               <p>Shall the Heathens be very laborious and indu<g ref="char:EOLhyphen"/>ſtrious, diligent and careful in their Trades and Callings, abhorring Idleneſs? And ſhall we Chriſtians abound in Improvidence, Careleſneſs and ill Husbandry, giving our ſelves up to Eaſe, and ſenſual Pleaſures, to the prejudice and ruine of our poor Families, brought here<g ref="char:EOLhyphen"/>by, many times, to a morſel of Bread?</p>
+               <p>Shall the poor Heathen Servants (although they have very ſmall wages allowed them) be very Juſt and Ho<g ref="char:EOLhyphen"/>neſt, Diligent and Laborious, abounding in all Fidelity to their Maſters and Miſtreſſes? And ſhall Chriſtian Ser<g ref="char:EOLhyphen"/>vants be Idle, Careleſs and Unfaithful, not fit to be confided in and truſted? and ſhall this be ſtill the general complaint, in our days, made by all ſorts and degrees among us, of their Wretchleſneſs and Unfaithfulneſs?</p>
+               <p>Shall the Heathens be very faithful in Truſts commit<g ref="char:EOLhyphen"/>ted to them, that they will ſooner loſe their lives than either betray or forſake a truſt, committed to them in any concern? And ſhall we Chriſtians be perfidious and unfaithful one to another, and that to this degree, that it is become a very Proverb among us, <hi>Where ſhall we meet with a Man that we can truſt? And in matter of Money or Profit, I will not truſt my own Father?</hi> But a Man of honour and integrity (as one obſerves) will ſooner break his heart than his word. He will not forfeit his Parole, even to an Enemy, no not if he had a thouſand Crowns and Lives at Stake.</p>
+               <p>Shall the Heathens obſerve exact Juſtice in their way of Trade, in Buying and Selling, and be ſo honeſt there<g ref="char:EOLhyphen"/>in, that a man may truſt them ſafely and not be cheat<g ref="char:EOLhyphen"/>ed? And ſhall we Chriſtians be the only traders in Wick<g ref="char:EOLhyphen"/>edneſs, in lying, cheating, over-reaching one another in our commerce and trading? What a reproach and ſhame is it to Chriſtianity, that we ſhould be according to the Proverb, <hi>(Homo homini Lupus) As Woolves to prey upon and devour one another:</hi> And that Heathens ſhould exceed us Chriſtians in common honeſty? For, it hath been obſerved in our days, ſo ſordid are moſt People
+<pb n="30" facs="tcp:101404:18"/>grown, that their faith is not ſo dear to them as their profit.</p>
+               <p>Shall both <hi>Mahometans</hi> and Heathens, be modeſt and ſober in their Apparel, ſteady and conſtant in their Fa<g ref="char:EOLhyphen"/>ſhion, never altering the ſame? And ſhall we Chriſtians, many of us, not know what belongs to modeſty and ſo<g ref="char:EOLhyphen"/>briety in our Clothes and Attire; and ſo fickle and in<g ref="char:EOLhyphen"/>conſtant, varying our Faſhions as often as we renew our Garments?</p>
+               <p>Shall <hi>Mahometans</hi> ſo abound in Charity to the Poor, that a <hi>Muſſulman,</hi> or zealot in their Religion, will give a ſeventh part of his Eſtate towards their relief? And others of them be of ſuch noble and publick Spirits, that for general and publick uſe and benefit, they will be at great Expences in building <hi>Sarraas</hi> or publick <hi>Inns,</hi> for entertainment of Strangers in their Journeying, and of Wells and Fountains, with perſons to attend them, for refreſhing of weary Travellers; and be noble and gene<g ref="char:EOLhyphen"/>rous in forgiving high and inſolent affronts and injuries offered to them? And ſhall we Chriſtians be of cloſe, and private, and ſelfiſh uncharitable Spirits, wholly Circumſcribed within our own concerns, as if we were born only for our ſelves, and give far leſs in Charity to the Poor than a <hi>Mahometan?</hi> And ſhall we Chriſtians think it alſo a piece of honour and gentility (upon an affront and injury offered to us) to be inexorable, im<g ref="char:EOLhyphen"/>placable and cruel, never to remit the injury?</p>
+               <p>Shall a new <hi>Mahometan</hi> Convert be ſo zealous and con<g ref="char:EOLhyphen"/>ſtant to his new profeſſion of Chriſtianity, who neither by threats or promiſes, made by his Powerful and Tyran<g ref="char:EOLhyphen"/>nical Prince, and his Lord and Maſter, could be pre<g ref="char:EOLhyphen"/>vailed upon, to retract and renounce the ſame? And ſhall we who have been long Educated in Chriſtianity, not be zealous and conſtant to our holy Chriſtian profeſſion, but fickle, wavering and inconſtant?</p>
+               <p>And let all our Atheiſtical Chriſtians, defiers and neg<g ref="char:EOLhyphen"/>lecters of <hi>God</hi> and Goodneſs, take warning from the great Example before mentioned, of the Almighty's re<g ref="char:EOLhyphen"/>markable Juſtice and Vengeance (in that ſtrange pro<g ref="char:EOLhyphen"/>vidence related before) againſt a <hi>Mahometan</hi> Atheiſt, which extorted ſuch a free and ingenious Confeſſion and
+<pb n="31" facs="tcp:101404:18"/>Acknowledgment from him in his Diſtreſs and laſt Ago<g ref="char:EOLhyphen"/>ny; and let them become ſo wiſe, as either ceaſe to be Creatures, and remove themſelves (if they can) out of the reach of the Almighty, or elſe ceaſe to defie him.</p>
+               <p>In ſhort, let us, Chriſtians, ſeriouſly conſider theſe things, and how prevalent <hi>Mahometaniſm</hi> and Hea<g ref="char:EOLhyphen"/>theniſm hath been upon the minds and conſciences of theſe Infidels and Heathens, to the producing of commendable and virtuous Actions and Converſations. And ſhall not the holy Religion of the ever Bleſſed <hi>Jeſus,</hi> brought down from Heaven to us by the Son of <hi>God,</hi> in which was fully manifeſted to the World, the divine Love and Goodneſs, a Religion exceeding, in worth and good<g ref="char:EOLhyphen"/>neſs, all the Religions that ever were in the World; de<g ref="char:EOLhyphen"/>livering to us the ſublimeſt and beſt Precepts, for the happy regulation of our Lives the greateſt and higheſt encouragements for the animating us thereto, from the example of our Lord and Maſter, by aſſuring to us the divine Aſſiſtances of the holy Spirit, to be our aid and comfort in our Chriſtian courſe and warefare; and by bringing Life and Immortality to light, (ſetting open the Gate of Heaven,) and aſſuring to us (as our re<g ref="char:EOLhyphen"/>ward) an immortal Crown of Glory in the higheſt Hea<g ref="char:EOLhyphen"/>ven. And, notwithſtanding all this, ſhall our Lives and Converſations come ſhort of theſe <hi>Mahometans</hi> and Heathens, who have had none of theſe aids, to whom theſe glad tidings of Salvation never came? ſhall our Converſations come ſhort of theſe, who we believe come ſhort of Heaven?</p>
+               <p>What a ſad thing is it to conſider therefore, That Chriſtians very many of them, may go to School, and learn of <hi>Infidels</hi> and <hi>Heathens</hi> to reform their Lives and Manners? To ſee them, who profeſs Chriſtianity, this beſt Religion in the World, to be given up to a Repro<g ref="char:EOLhyphen"/>bate mind, to Stupidity, to Careleſneſs, and Neglect of all Religion and Vertue, as if they had wholly di<g ref="char:EOLhyphen"/>veſted themſelves of their Reaſon, and loſt all ſenſe of God and Goodneſs.</p>
+               <p>Alas! it is to no purpoſe to talk like <hi>Chriſtians</hi> and live worſe than <hi>Infidels;</hi> this was it (as a great Man obſerved) that made the Philoſopher to ſay, <hi>That there
+<pb n="32" facs="tcp:101404:19"/>was nothing more glorious than a Chriſtian in Diſcourſe, no<g ref="char:EOLhyphen"/>thing more miſerable in his Actions.</hi> Certainly <hi>Chriſtians,</hi> eſpecially reformed <hi>Chriſtians,</hi> ſhould be diſtinguiſhed from <hi>Heathens,</hi> not only by their Faith, their Profeſſi<g ref="char:EOLhyphen"/>on and Diſcourſes, but by their Manners, their Lives and Converſations, which ſhould be much better than thoſe of <hi>Infidels</hi> and <hi>Heathens.</hi> I ſhall conclude in the words of the Pious and Learned, <hi>Pudeat, Pudeat, illos nomine tenus Chriſtianos, qui ad hanc rem Ethnici rectius ſa<g ref="char:EOLhyphen"/>puerunt:</hi> May it ſhame, may it ſhame thoſe who call themſelves <hi>Chriſtians,</hi> to conſider that very <hi>Heathens</hi> have lived better and more <hi>Chriſtian</hi> lives than they.</p>
+               <p>And as a late worthy Divine of our own expreſſeth it, <q rend="margQuotes">What man then deſerves the name of a <hi>Chriſtian,</hi> that notwithſtanding all the means of Grace which God af<g ref="char:EOLhyphen"/>fords, doth ſtrive to make himſelf equal with a Beaſt, that baſely uſes his noble part? that is like a Feather ſhaken with the Wind, and lies down at the Feet of eve<g ref="char:EOLhyphen"/>ry Pleaſure, and cannot ſuſtain the load of the leaſt Grief; that vexes and frets at every Croſs, as if the Devil ruled the World, and trembles at death as a Child doth at a Friend with a Vizard on. <hi>God</hi> expects ſure that we, <hi>Chriſtians,</hi> ſhould be men of another ſort, and that Philoſophy (or Heatheniſm) ſhould not be<g ref="char:EOLhyphen"/>get more luſty and vigorous Souls than Chriſtianity can.</q>
+               </p>
+               <p>And as another ſpeaks, <q rend="margQuotes">It is an abominable thing to belye the Truth, even in words; but the lye of Life is the moſt pernicious of all others. With what face can we then exclaim againſt the baſeneſs of a lying Tongue, when our whole Practice and Converſation is but one continued lye all through; <hi>viz.</hi> Our Pro<g ref="char:EOLhyphen"/>feſſion <hi>Chriſtian,</hi> our Converſations <hi>Heathen;</hi> yea, worſe than <hi>Heathen.</hi> And let us with Seriouſneſs and ſorrow conſider therefore,</q> may not the Heathens ſay to us, (as it is related the Heathens in <hi>America,</hi> did to the <hi>Spa<g ref="char:EOLhyphen"/>niards.</hi>) <q rend="margQuotes">
+                     <hi>Qualis iſte Deus, quiae tam impuros, &amp; ſceleratos filios habet?</hi> What kind of God is he who hath ſuch im<g ref="char:EOLhyphen"/>pure and wicked Sons?</q>
+               </p>
+               <closer>Almighty God, who ſheweſt to them that be in Error the Light of thy Truth, to the intent, that they may return into
+<pb n="33" facs="tcp:101404:19"/>the way of Righteouſneſs; Grant unto all them that are admit<g ref="char:EOLhyphen"/>ted into the Fellowſhip of <hi>Chriſt</hi>'s Religion, that they may eſehew thoſe things that are contrary to their Profeſſion, and follow all ſuch things as are agreeable to the ſame, through our Lord <hi>Jeſus Chriſt.</hi> Amen.</closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="appendix">
+            <pb n="34" facs="tcp:101404:20"/>
+            <head>AN APPENDIX.</head>
+            <p>Now as an Attendant to the foregoing Diſcourſe, why may I not add (and not improperly) ſome choice and excellent Diſcourſes and Sayings of the Ancient Wiſe Heathens? Collected, ſome from the Authors themſelves; others from the Diſ<g ref="char:EOLhyphen"/>courſes of our Proteſtant Divines, <hi>viz.</hi>
+            </p>
+            <div n="1" type="part">
+               <head>
+                  <hi>1.</hi> Of Knowledge and Wiſdom.</head>
+               <p>
+                  <hi>SEneca</hi> ſaith, There is a world of things to be ſtudied and learned, therefore we ſhould diſcharge the mind of things unneceſſary to make way for greater matters; Our danger is the being miſtaken in things, not in words; and in conſounding of Good and Evil.</p>
+               <p>Man is endued with a reaſonable Soul, and the Know<g ref="char:EOLhyphen"/>ledge of things is very ſuitable and pleaſant to it; Mu<g ref="char:EOLhyphen"/>ſick is not more pleaſant to the Ear, nor Beauty and Proportion to the Sight, than Knowledge to the mind of Man.</p>
+               <p>Thoſe that have the greateſt Reputation for Wiſdom and Underſtanding, are ignorant and blind, and what they do ſee is very darkly, and with much Imperfection; thoſe that know moſt know very little.</p>
+               <p>The Fountain and Original of all miſchief is that we live not according to Reaſon but Opinion.—But I will do nothing (ſaith <hi>Seneca</hi>) out of Opinion but all things out of Conſcience.</p>
+               <p>It is (ſaith he) the bounty of nature that we live, but
+<pb n="35" facs="tcp:101404:20"/>of Philoſophy that we live well; which is in truth a greater benefit than Life it ſelf.</p>
+               <p>Where is a rambling head (ſaith he) there is a cer<g ref="char:EOLhyphen"/>tain ſign of a ſickly Mind or Humour.</p>
+               <p>'Tis a good Argument of a well compoſed mind, when a man loves home, and to keep company with him<g ref="char:EOLhyphen"/>ſelf.</p>
+               <p>Not a few there are, that provided they may ſave their Bodies, never care what becomes of their Souls.</p>
+               <p>Many Books and much Acquaintance brings a man to a Levity of Diſpoſition, and a liking of Change. And what's the body better for meat, that will not ſtay with it?</p>
+               <p>And this wiſe Heathen goes on thus. Wiſdom de<g ref="char:EOLhyphen"/>lights in Openneſs and Simplicity in the forming of our lives, rather than in the Niceties of the Schools, which at beſt do but bring in Pleaſure without Profit.</p>
+               <p>Wiſdom and Vertue requires a Tutor, though we can eaſily learn to be vitious without a Maſter.</p>
+               <p>Aſſure your ſelf (ſaith he) That no man gives a better account of his time, than he that makes it his Study to make himſelf better; and to this end obſerve thy ſelf as thy greateſt Enemy, ſo ſhalt thou become thy greateſt Friend.</p>
+               <p>
+                  <hi>Ariſtotle</hi> being demanded, What was the fruit of all his Study and Philoſophy as to himſelf?</p>
+               <p>Anſwered, To do thoſe things out of a natural Willingneſs that others do by Compulſion.</p>
+               <p>Let this truth be confeſſed and remain for ever. That they who are well inſtructed, eaſily become good men. In his Book <hi>De Legibus.</hi> And he gave ſometimes this ad<g ref="char:EOLhyphen"/>vice to his Scholars, That when they took notice of any thing bad, or of ill report which they beheld in others; That every one of them ſhould aſk himſelf this queſtion, <hi>Num ego feci tale? (i. e.)</hi> Have not I done the like?</p>
+               <p>And <hi>Tully</hi> tells us, That nothing can be well taught without example.</p>
+               <p>And the Ancient <hi>Pythagoreans</hi> (as a worthy Divine hath obſerved) were wont when any Perſon forſook their School, to ſet a Coffin in the place where he uſed to ſit, and then to make a ſolemn Funeral for him; be<g ref="char:EOLhyphen"/>wailing
+<pb n="36" facs="tcp:101404:21"/>wailing him with Tears, as one that was really dead.</p>
+               <p>
+                  <hi>Tully</hi> ſaith, Every Creature hath its proper Perfection. The proper Perfection of the Mind is Reaſon; the pro<g ref="char:EOLhyphen"/>per Perfection of Reaſon is Virtue; and the proper Perfection of Virtue is Integrity.</p>
+               <p>'Tis not enough to remember (ſaith <hi>Seneca</hi>) and to underſtand, unleſs we do what we know.</p>
+               <p>The <hi>Pythagoreans</hi> made the chief end of moral Philoſo<g ref="char:EOLhyphen"/>phy, to be the curing of the Soul of its ſick diſeaſed Paſſi<g ref="char:EOLhyphen"/>ons; and to bring it to a healthy Complexion and an athle<g ref="char:EOLhyphen"/>tick ſound Conſtitution w<hi rend="sup">ch</hi> conſiſted in vertuous Actions.</p>
+               <p>There are ſome Writings (ſaith <hi>Seneca</hi>) that ſtir up ſome generous Reſolutions, and do as it were inſpire a man with a new Soul; they diſplay the Bleſſings of a happy Life, and poſſeſs me at the ſame time with Admi<g ref="char:EOLhyphen"/>ration and with hope.</p>
+               <p>And nothing (ſaith he) is more unworthy and diſho<g ref="char:EOLhyphen"/>nourable, than for a man to live to a great Age; and yet hath no other fruit of his Life to ſhew, but only his living long in the World.</p>
+            </div>
+            <div type="part">
+               <head>Concerning God, and the Knowledge and Love of him.</head>
+               <p>
+                  <hi>Tully,</hi> calls him <hi>Optimus Maximus,</hi> God the beſt and chiefeſt being.</p>
+               <p>And <hi>Seneca</hi> ſaith, the Knowledge of God is the moſt excellent Knowledge: he is the moſt excellent object, and therefore the Knowledge of him muſt needs be ſo; for all Science is valuable according to the objects thereof; where the one is worthy and excellent the other is ſo too; where the one is mean and worthleſs, the other is not valuable or regardable; and hence it is that even in this World, the knowledge of God ſurpaſſes all other Knowledge whatſoever it be. Take away this ineſtima<g ref="char:EOLhyphen"/>ble good, and life it ſelf is not worth the Labour and Care of it. <hi>O Quanta res eſt homo, niſi ſupra humana ſe erexerit. (i. e.)</hi> O what a wretched and contemptible thing is man when he doth not advance and raiſe up his mind above humane Affairs? And again. <hi>Quid infelicius Ama<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> eſſe, et non Dei (i. e.)</hi> What greater Unhappi<g ref="char:EOLhyphen"/>neſs can poſſibly befall any man, than to be a lover, and not of God?</p>
+               <pb n="37" facs="tcp:101404:21"/>
+               <p>And <hi>Plato</hi> tells us, That Love was the Ornament of all, both of the Gods and Men.</p>
+               <p>The Dominions of the Soul above are boundleſs; this very Contemplation gives us force, Liberty and Nou<g ref="char:EOLhyphen"/>riſhment, and the mind is there at home; and it hath this Argument of its Divinity, that it takes delight in what is Divine — There it is that it learns the end of its proper being; the Knowledge of God — By the help of Philoſophy, the ſoul gives the ſlip to the Bo<g ref="char:EOLhyphen"/>dy and refreſheth it ſelf in Heaven.</p>
+               <p>Wealth, honour and favour, may come upon a man by Chance; nay may be caſt upon him without ſo much as looking after, but Vertue is the work of Indu<g ref="char:EOLhyphen"/>ſtry and Labour; and certainly it is worth the while, to purchaſe that good which brings all other along with it.</p>
+               <p>Good Lord, think I (ſaith <hi>Seneca</hi>) if men would but exerciſe their brains, as they do their Bodies, and take as much pains for Vertue, as they do for Pleaſure!</p>
+               <p>Faith Juſtice Piety, Fortitude, Prudence, are vene<g ref="char:EOLhyphen"/>rable, and only the Poſſeſſion of Good men; but a plen<g ref="char:EOLhyphen"/>tiful Eſtate, a brawny Arm, and a firm Body are many times the portion of the wicked; the Vertue we com<g ref="char:EOLhyphen"/>mend is high and illuſtrious, not that 'tis a Happineſs only to be free from evil, but becauſe it dignifies and enlar<g ref="char:EOLhyphen"/>geth the mind, becauſe it prepares it for the Knowledge of heavenly things; and makes it capable even of con<g ref="char:EOLhyphen"/>verſing with God himſelf.</p>
+               <p>All men (ſaith he) ſeek for Comfort and Satisfaction and Joy, but yet are ignorant, and know not whence that Satisfaction and Joy that is durable and laſting, ari<g ref="char:EOLhyphen"/>ſeth.</p>
+               <p>Fools that we are, what would we be at? that have nei<g ref="char:EOLhyphen"/>ther wit enough to adviſe our ſelves, or to take counſel of others. Is it pleaſure we ſeek? <hi>God</hi> hath provided pleaſures for us in Heaven: If it be pleaſure in this World that we covet, why do we not give it our ſelves in the Bleſſing of a well compoſed and vertuous mind? (O the admirable Divinity of a <hi>Heathen.</hi>)</p>
+               <p>That's a pleaſure (ſaith he) ſubſtantial, ſincere, un<g ref="char:EOLhyphen"/>changeable, and untainted, whereas the Enjoyments of
+<pb n="38" facs="tcp:101404:22"/>he Fleſh are weak and ſhort liv'd, only varniſh'd over — both afraid and aſhamed of the light.</p>
+               <p>Pleaſure is mean, ſervile, tranſitory, tireſome, ſickly, the good of the Belly, and only the felicity of Brutes.</p>
+               <p>And accordingly <hi>Peregrinus</hi> of <hi>Athens</hi> uſed to ſay, That a wiſe man would not ſin although the Gods ſhould never know it.</p>
+               <p>The pleaſures of the vulgar (ſaith <hi>Seneca</hi>) are un<g ref="char:EOLhyphen"/>grounded, thin and ſuperficial, but the other are ſolid and eternal; and the moſt miſerable of all Mortals, are they that deliver themſelves up to their Palates or their Luſts.</p>
+               <p>He that ſubdues his carnal Luſts, ſhall eaſily keep him<g ref="char:EOLhyphen"/>ſelf untainted with any other. So that Reaſon doth not encounter this or that Vice by it ſelf; but beats down all at a blow.</p>
+               <p>The Joy of a wiſe man (ſaith he) ſtands firm without Interruption, in all places, at all times, and in all Con<g ref="char:EOLhyphen"/>ditions; his thoughts are chearful and quiet.</p>
+               <p>For indeed there is not any greater effect of true Wiſdom, than the equality and evenneſs of our Joy, and accordingly it was obſerved by <hi>Xantippe, Socrates</hi> his Wife, That he always returned home with the ſame calm tem<g ref="char:EOLhyphen"/>per of mind as he went out with.</p>
+            </div>
+            <div type="part">
+               <head>Of Juſtice, Honeſty and Integrity.</head>
+               <p>Juſtice and Prudence in Conjunction (ſaith <hi>Tully</hi>) will give a man what Credit he pleaſeth; but taking them apart, Juſtice even without Wiſdom, may do very much, but Wiſdom without Juſtice is nothing worth. Juſtice may beget Confidence without Wiſdom; but Wiſdom can do nothing without Juſtice.</p>
+               <p>And <hi>Plato</hi> defined Vertue to be the Harmony of the Soul.</p>
+               <p>And honeſt <hi>Socrates</hi> will tell us, That Simplicity and Truth is a great and wiſe thing; but Cunning and De<g ref="char:EOLhyphen"/>ceit is a mean and fooliſh thing. And that the Juſt man and the happy man are all one.</p>
+               <p>And other Heathens tell us, That where Fidelity is once abandoned, there Falſhood and Perfidiouſneſs takes place, which is branded with the higheſt Cheat in Hu<g ref="char:EOLhyphen"/>manity;
+<pb n="39" facs="tcp:101404:22"/>and that in preſenting him that is falſe and per<g ref="char:EOLhyphen"/>fidious, we therein undertake the Cauſe of all man<g ref="char:EOLhyphen"/>kind.</p>
+               <p>Now as to their ſaying, (ſaith <hi>Tully</hi>) that when a thing is very profitable, the advantage juſtifies it; though it were not honeſt otherwiſe: Let me tell you, that it muſt be ſo, and not be made ſo: For there is nothing profitable which is not honeſt, and it is not honeſt, be<g ref="char:EOLhyphen"/>cauſe it is profitable; but it is profitable, becauſe it is honeſt.</p>
+               <p>And he that defends an Injury, is next to him that commits it.</p>
+               <p>And take away the Opinion (ſaith he) of a mans In<g ref="char:EOLhyphen"/>tegrity, and the more crafty and ſubtle he is; by ſo much is he the more hateful and ſuſpected.</p>
+               <p>It coſts us (ſaith <hi>Seneca</hi>) a great deal of time and other mens ears, a great deal of trouble to purchaſe the Cha<g ref="char:EOLhyphen"/>racter of a learned man, wherefore I ſhall e'en content my ſelf with the courſer Title of an honeſt man.</p>
+               <p>He ſaith <hi>O quantum mali eſt nimium ſubtilitas?</hi> O what a great Evil and Miſchief is too much Cunning?</p>
+               <p>It is not enough to be juſt where is honour to be got, but to continue ſo in defiance of infamy and danger.</p>
+               <p>Not only the chiefeſt, but the only good conſiſts in what is honeſt and vertuous.</p>
+               <p>The Graces of an honeſt Mind (ſaith he) will ſerve us upon the way, and make us happy at our Journeys end. A peaceful Conſcience, honeſt thoughts, vertuous actions and an Indifference for caſual Events, are Bleſſings with<g ref="char:EOLhyphen"/>out end, Satiety or Meaſure. There is no Chearfulneſs like the Reſolution of a brave mind; that hath Fortune un<g ref="char:EOLhyphen"/>der his feet, he that can look Death in the face, and bid it welcome; open his door to Poverty, and bridle his Ap<g ref="char:EOLhyphen"/>petites; this is the man, whom Providence hath eſta<g ref="char:EOLhyphen"/>bliſh'd in the Poſſeſſion of inviolable delights.</p>
+               <p>It is clear (ſaith <hi>Tully</hi>) that whatſoever is done with a timorous, abject, mean, and broken mind, can<g ref="char:EOLhyphen"/>not be profitable, becauſe it is flagitious, diſhonourable, and ſhameful: as the Action of <hi>Regulus</hi> would have been; if he had rather conſulted his own intereſt than that of the Publick.</p>
+               <pb n="40" facs="tcp:101404:23"/>
+               <p>Light is not more inſeparable from a Sun-beam, than Pleaſure and Peace of Soul is from a State of Purity and Integrity, ſaith another.</p>
+               <p>Make it no longer a matter of diſpute what are the marks and ſigns of a good man, but immediately ſet a<g ref="char:EOLhyphen"/>bout it and endeavour to become ſuch an one, ſaith <hi>An<g ref="char:EOLhyphen"/>toninus.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>As to the Providence of God in the World.</head>
+               <p>Man is a feeble Creature, (ſaith <hi>Seneca</hi>) and impotent for his own defence in a thouſand Caſes that happen eve<g ref="char:EOLhyphen"/>ry day: It were therefore a moſt melancholy Condi<g ref="char:EOLhyphen"/>tion of Life, if we were not under the ſhelter of a Pro<g ref="char:EOLhyphen"/>vidence; if we had no Patron, if there were not a ſu<g ref="char:EOLhyphen"/>pream <hi>Genius,</hi> a higher nature continually ſollicitous for our Protection. — Nothing but childiſh Cowardice, could tempt a man to wiſh to live one day, if he were confident there were not ſuch a thing as a Providence. — This erects a mans-mind, and fortifies his Spi<g ref="char:EOLhyphen"/>rits, this ſuffers him neither to fear, nor to wiſh for death; but enables him both to live patiently and die bravely.</p>
+               <p>Which was verified in honeſt <hi>Socrates,</hi> who reſolutely told his Enemies, and his Judges; you may kill <hi>Socrates,</hi> but you cannot hurt him.</p>
+               <p>And <hi>Seneca</hi> ſaith, That the Conſequent of the truſt in a Providence, is the great Encouragement to all ge<g ref="char:EOLhyphen"/>nerous Enterprizes and Performances, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Marcus Antoninus Philoſophus</hi> ſaith, That he would not be willing to live one day in the World; if he thought there was not a God in it.</p>
+               <p>
+                  <hi>Epictetus</hi> ſaith, It is among our firſt Rudiments; that there is a <hi>God,</hi> and that his Providence is over all things. Know ye O men! (ſaith he) that every of you is com<g ref="char:EOLhyphen"/>mitted to a certain diligent and excellent Keeper and Obſerver; ſuch is every mans <hi>Genius</hi> appointed by <hi>God,</hi> ſo that thou art never alone.</p>
+            </div>
+            <div type="part">
+               <pb n="41" facs="tcp:101404:23"/>
+               <head>Of the Senſe of God, and of Religion and Vertue.</head>
+               <p>
+                  <hi>Plutarch</hi> ſaith, They that look upon <hi>God,</hi> as the chief Rewarder of good and evil, and fear him accordingly, are thereby freed from other perplexing fears. Such perſons have more inward peace than others, who indulge them<g ref="char:EOLhyphen"/>ſelves in thir Vices, and dare to commit any Wickedneſs. Such a man hath a truly great and generous mind, who can reſign himſelf up to <hi>God's</hi> Diſpoſal. The greateſt Li<g ref="char:EOLhyphen"/>berty is to ſubmit to the Laws of <hi>God</hi> our <hi>Soveraign.</hi>
+               </p>
+               <p>
+                  <hi>Plato</hi> defines vertue to be the Harmony of the Soul.</p>
+               <p>And <hi>Hierocles</hi> ſaith, That Philoſophy advanceth the Soul into the divine likeneſs.</p>
+               <p>And another Philoſopher tells us, That the ſubduing our Wills to the Will of <hi>God;</hi> is indeed the Subſtance of all Religion, and that the higheſt and coſtlieſt Sacrifices were never prized like the Sincerity of an honeſt heart.</p>
+               <p>Imitate him (ſaith he) whom you worſhip.</p>
+               <p>And both <hi>Plato</hi> and <hi>Epictetus</hi> will have Mans great end to conſiſt in following of <hi>God.</hi>
+               </p>
+               <p>Every thing (ſaith <hi>Antoninus</hi>) is deſigned for ſome kind of work, Beaſts and Plants the Sun and Stars, and what do you conceive your buſineſs to be? Senſual Plea<g ref="char:EOLhyphen"/>ſures. Bethink your ſelf a little better; whether this be ſuitable to your natural Sentiments, to the Nobility of your mind, and thoſe excellent Faculties with which you are endowed. Every mans chief end ſhould be a Reſemblance of <hi>God</hi> and being made like to the <hi>Deity.</hi>
+               </p>
+               <p>And <hi>Epictetus</hi> further excellently, thus diſcourſeth. If I had been (ſaith he) a Nightingale or a Swan, I ſhould have imployed the time of my Life in ſuch a way as is ſuitable to the Condition of thoſe Creatures; But being made a Man capable of ſerving and worſhipping that <hi>God</hi> from whom I had my Being, 'tis but reaſon that I ſhould apply my ſelf to this, as being my proper work and bu<g ref="char:EOLhyphen"/>ſineſs. And therefore hereunto will I devote my ſelf, as being the chief Imployment to which I am deſigned, <hi>&amp;c.</hi> and concludes it to be his duty wholly to devote himſelf to the praiſes and worſhip of that <hi>God</hi> who was the Au<g ref="char:EOLhyphen"/>thor of his Being.</p>
+               <pb n="42" facs="tcp:101404:24"/>
+               <p>And <hi>Hierocles</hi> in <hi>Carm. Aur.</hi> hath this excellent paſ<g ref="char:EOLhyphen"/>ſage. He there adviſeth to ſecond all our Endeavours with prayer to <hi>God,</hi> and then to be careful of purſuing our Prayers with Endeavours.</p>
+               <p>It is not granted to men that have been in an Error or Fault to ſee their miſtake, until firſt they are very weary of it. <hi>Brutus</hi> in Epiſt. <hi>ad Pergamen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Concerning Religious Worſhip and prayer to God.</head>
+               <p>
+                  <hi>Ariſtotle</hi> moſt excellently diſcourſes, where he ſtates that to be the moſt deſirable proportion of all worldly Felicities and Enjoyments; which, is moſt conſiſtent with mens devoting themſelves to the buſineſs of Religi<g ref="char:EOLhyphen"/>on, and that to be either too much or too little, of Wealth or Honour or Power, <hi>&amp;c.</hi> when men are hindered in their meditating upon <hi>God,</hi> or their worſhipping of him.</p>
+               <p>And the Saying of <hi>Pythagoras</hi> (mentioned by <hi>Tully</hi> and <hi>Plutarch</hi>) was; We are never better than when we ap<g ref="char:EOLhyphen"/>proach to <hi>God,</hi> when we (as <hi>Tully</hi> ſpeaks,) <hi>Rebus Divinis operam damus (i. e.)</hi> are imployed in the Duties of divine Worſhip.</p>
+               <p>The better ſort of Heathens (as one tells us) ſaid of Prayer; that it is our Conducter unto <hi>God,</hi> brings us in<g ref="char:EOLhyphen"/>to his divine Light, ſets us in his Preſence, draws him to us by a divine perſwaſive Rhetorick, and powerful Sympathy with him; nay, knits and unites us unto the firſt Being, and moves his bountiful goodneſs to com<g ref="char:EOLhyphen"/>municate all good things unto us; it being the opening of the Soul to <hi>God,</hi> that he may fill us.</p>
+               <p>And <hi>Plato</hi> tells us, That as well <hi>Greeks</hi> as <hi>Barbarians,</hi> at the riſing and ſetting of the Sun and Moon, uſed Pro<g ref="char:EOLhyphen"/>ſtrations; and he reſolveth. That all men who have the leaſt degree of Wiſdom and Sobriety, call upon <hi>God,</hi> when they begin to move towards any undertaking whe<g ref="char:EOLhyphen"/>ther it be great or ſmall.</p>
+               <p>And <hi>Porphyry</hi> long after tells us, That all wiſe men in all Nations have been very diligent and frequent in Prayers, as that which is of mighty Importance.</p>
+               <p>We are incloſed (ſaith he) here in this Body, as in a Priſon, like Children ſeparated and at a great diſtance
+<pb n="43" facs="tcp:101404:24"/>from their Parents, who ought to pray to the <hi>Gods,</hi> who are their true Parents, about their return to them; and who ever they are that do not thus pray to them, will find, that they are no better than Fatherleſs and Motherleſs Children, who will have none to take care of them, and be kind to them, when they are looſned from theſe Bodies; to which they are now chained.</p>
+               <p>There is a Form of Prayer as I have heard, of <hi>Xeno<g ref="char:EOLhyphen"/>phon</hi>'s, <hi>viz.</hi> Grant us this day, things that thou know<g ref="char:EOLhyphen"/>eſt to be good for us, whether we aſk them or aſk them not; and turn evils from us though we aſk them.</p>
+               <p>
+                  <hi>Ariſtotle</hi> at his death cries out to <hi>God</hi> thus, <hi>O Ens En<g ref="char:EOLhyphen"/>tium, miſerere mei, (i e.)</hi> O thou great Being of all Beings, have mercy upon me.</p>
+               <p>Alſo it is ſaid, That an ancient <hi>Greek</hi> Poet, uſed thus to expreſs himſelf in his Prayer to <hi>God;</hi> Hearken unto me, O Father, thou great Wonder of Mankind; who takes a ſpecial Care of an everlaſting Soul.</p>
+               <p>The Nature of <hi>God,</hi> (ſaith <hi>Tully</hi>) may juſtly challenge the Worſhip of men, becauſe of its ſuperlative excellency, Bleſſedneſs and Eternity: For whatſoever excells hath upon that account a Veneration due to it, <hi>God</hi> is to be worſhipp'd becauſe of his excellent Majeſty, and incom<g ref="char:EOLhyphen"/>parable Nature.</p>
+               <p>And <hi>Seneca</hi> cites this Paſſage out of <hi>Ariſtotle;</hi> men (ſaith he) are never more concerned, than when they have to do about God; we ſhould enter into the Tem<g ref="char:EOLhyphen"/>ples with a humble and a compoſed demeanour, when we approach to Sacrifice; it ſhould be with all imaginable Expreſſions of Reverence and Modeſty in our Countenace and Carriage.</p>
+               <p>And accordingly in the entrance upon the Worſhip of the <hi>Gods,</hi> they cried out, <hi>O procul abſint Prophani!</hi> Let all Prophaneneſs be avoided and not come near. And they had that Admonition in their Worſhip, <hi>Hoc age, (i. e.)</hi> be intent upon, and mind what you are about.</p>
+               <p>
+                  <hi>Seneca</hi> ſaith, He only can truly worſhip God, who knows him; That the firſt ſtep unto divine Worſhip, is to believe the being of <hi>God,</hi> and then to demean our ſelves towards him ſuitably to the greatneſs of his Ma<g ref="char:EOLhyphen"/>jeſty. Would you render him propitious to you, endea<g ref="char:EOLhyphen"/>vour
+<pb n="44" facs="tcp:101404:25"/>to be good (ſaith he.) That Man doth only truly worſhip <hi>God,</hi> who labours to be like him.</p>
+               <p>And <hi>Maximus Tyrius</hi> (diſcourſing concerning thoſe diverſe Solemnities wherewith ſeveral Nations did ho<g ref="char:EOLhyphen"/>nour their <hi>Gods</hi>) ſaith, he would be loth by denying any of thoſe to derogate from the honour of the <hi>Deity;</hi> but men ſhould chiefly labour to have him in their minds, they ſhould principally endeavour to know him and to love him.</p>
+               <p>
+                  <hi>Euſebius</hi> (as a Divine tells us) hath quoted <hi>Menander</hi> a <hi>Greek</hi> Poet, <hi>viz.</hi> In vain (ſaith he) do men endea<g ref="char:EOLhyphen"/>vour to make the <hi>Gods</hi> propitious, by their coſtly Sacri<g ref="char:EOLhyphen"/>fices; If they would have the divine Favour, let them love and adore <hi>God</hi> in their hearts: be juſt and holy in their Converſations.</p>
+               <p>If true Worſhip of <hi>God</hi> did conſiſt (ſaith <hi>Perſius</hi>) only in coſtly Sacrifices, then ſuch alone as were rich could be Religious; whereas <hi>God</hi> is more ready to accept the meaneſt Offering from a Perſon of a juſt, worthy and generous mind, who doth truly love and devote himſelf to him, than the moſt pompous, coſtly Sacrifices from others. Give <hi>God,</hi> ſaith he,
+<q>
+                     <l>Reſolved Right, pure Thoughts, a Mind rais'd high.</l>
+                     <l>A Soul engrav'd with noble Honeſty.</l>
+                  </q>
+               </p>
+               <p>If one (ſaith <hi>Seneca</hi>) could but ſee the mind of a good Man, as it is illuſtrated with Vertue, the Beauty and Majeſty of it, (which is a dignity not ſo much as to be thought of without Love or Veneration) would not a Man bleſs himſelf at the Sight of ſuch an Object, as at the Encounter of ſome ſupernatural Power? — It is by an Impreſſion of Nature, that all men have a Reve<g ref="char:EOLhyphen"/>rence for Vertue — Men are only vicious for the profit of Villainy, for at the ſame time they commit it they condemn it.</p>
+               <p>No wonder then the Heathen <hi>Xenophon</hi> tells us, That there is no fairer Poſſeſſion in all the World, than Ver<g ref="char:EOLhyphen"/>tue and Goodneſs.</p>
+               <p>And that wiſe <hi>Tully</hi> thus judges, That he is miſtaken who thinks any Diſcommodity, either of Body or Eſtate to be ſorer than the Vices of the Mind.</p>
+               <pb n="45" facs="tcp:101404:25"/>
+               <p>And <hi>Plutarch</hi> telleth us of a People, who did uſe upon Feſtival days, to preſent unto their Sons certain drunken Slaves; that by the view of that Vice of Drunkenneſs, they might learn to avoid it.</p>
+               <p>Riches (ſaith <hi>Ariſtotle</hi>) make men haughty and in<g ref="char:EOLhyphen"/>ſolent.</p>
+               <p>And farther, (<hi>Seneca</hi> ſaith) <hi>God</hi> could not traduce theſe things of the World which men ſo much deſire more, than by taking them from the beſt of Men, and giving them to the worſt.</p>
+            </div>
+            <div type="part">
+               <head>As to the Patient bearing the Evils and Troubles of this Life.</head>
+               <p>It is the natural Property of Vertue to make a man ſerene and chearful (ſaith <hi>Seneca.</hi>)</p>
+               <p>And farther he thus diſcourſeth, That Man muſt needs be unjuſt and unequal, who doth not think fit to leave to God the Giver unto the Liberty of his own Gift, to reſume it again when he pleaſeth.</p>
+               <p>
+                  <hi>Epictetus</hi> ſaith, In all thoſe Conditions which ſeem hard and grievous unto me, I do thus diſpoſe my ſelf: I conſider they come from <hi>God,</hi> and I do endeavour not meerly to ſubmit, but to aſſent to him in his Dea<g ref="char:EOLhyphen"/>lings, not only out of neceſſity, but out of choice. Let a Man in Affliction think that nothing comes to paſs but what ought to be; and let him (ſaith he) not take up<g ref="char:EOLhyphen"/>on him to reprehend Providence; 'tis beſt for a Man to bear what he cannot mend, and to follow <hi>God</hi> (by whom all Events are diſpoſed) without murmuring. Let us (ſaith he) beſpeak <hi>God</hi> as <hi>Clea thes</hi> did; Let the great Governour of the World lead me into what Condition he pleaſeth; am moſt ready to follow him, or ſuppoſe I ſhould find a Reluctancy againſt his Dea<g ref="char:EOLhyphen"/>lings with me, yet I will <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ill follow him though it be Sighing, and ſuffer that as a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> evil wretched man, which I ought to bear as a good Man with Patience and Submiſ<g ref="char:EOLhyphen"/>ſion. — It becomes Men to ſpeak and live up to this Principle. He only is a truly generous Man, who doth thus reſign up himſelf to <hi>God,</hi> and on the contrary, he is a little Wretch, of a degenerate find who ſtruggles
+<pb n="46" facs="tcp:101404:26"/>againſt him, having a hard opinion of the Government of the World, and thinks it fitter to mend <hi>God</hi> than him<g ref="char:EOLhyphen"/>ſelf.</p>
+               <p>One man (ſaith <hi>Seneca</hi>) values his Peace above his Honour; another his Honour above his Safety: and not a few there are (that provided they may ſerve their Bo<g ref="char:EOLhyphen"/>dies) never care what becomes of their Souls.</p>
+               <p>We are beſet with dangers, and therefore a wiſe Man ſhould have his Vertues in Readineſs to encounter them; whether Poverty, loſs of Friends, Pain, Sickneſs or the like, he ſtill maintains his Poſt. Whereas, a Pool is ſurprized at every thing. 'Tis bitter to be forced to any thing; but things are eaſie when complied with. It is much eaſier (ſaith he) to check our Paſſions in the be<g ref="char:EOLhyphen"/>ginning, than to ſtop them in their Courſe. There is nothing ſo hard but Cuſtom makes it eaſie to us.</p>
+               <p>And elſewhere, he ſaith that Anger is but ſhort Mad<g ref="char:EOLhyphen"/>neſs. There is no ſurer Argument of a great Mind, than not to be tranſported to Anger by any Accident. The Clouds and the Tempeſts are formed below, but all a<g ref="char:EOLhyphen"/>bove is quiet and ſerene, which is the Emblem of a Brave Man, that ſuppreſſes all Provocations, and lives within himſelf, modeſt, venerable and compoſed. — It is of all Paſſions the moſt powerful. — There is not any Mortal that lives free from the danger of it. — Nay the learnedſt, and Men otherwiſe of exemplary Sobriety are infected with it, and it is ſo potent a Paſſion, that <hi>Socrates</hi> durſt not truſt himſelf with it. Sirrah, (ſays he unto his Man) now would I beat thee if I were not an<g ref="char:EOLhyphen"/>gry with thee. Nor is it fit (ſaith <hi>Seneca</hi>) that a Servant ſhould be in his power, that is not his own Maſter. This Paſſion doth not ſollicit and miſlead us like other Paſſions, but it runs away with us by force, and hurries us on with an irreſiſtable Temerity as well to our own as others Ruine.</p>
+            </div>
+            <div type="part">
+               <head>As to riſh Judging.</head>
+               <p>It is a good Caution (ſaith <hi>Seneca</hi>) not to believe any thing till we are very certain of it, for many pro<g ref="char:EOLhyphen"/>bable things prove falſe, and a ſhort time will make Evi<g ref="char:EOLhyphen"/>dence
+<pb n="47" facs="tcp:101404:26"/>of the undoubted Truth. — Without much Candour and Simplicity and making the beſt of every thing, there is no living in Society with Mankind. — We ſhould chide our ſelves where we are over<g ref="char:EOLhyphen"/>credulous. — No man is ſo circumſpect, ſo conſi<g ref="char:EOLhyphen"/>derate; or ſo fearful of offending, but he hath much to anſwer for. — The wiſeſt of all Mortals have their Failings, and no Man living is without the ſame excuſe. — We are all obliged in Humanity to bear one with another; The great Leſſon of Mankind, as well in this as in all other Caſes is, To do as he would be done by.</p>
+            </div>
+            <div type="part">
+               <head>As to Friendſhip and Society.</head>
+               <p>The love of Society is natural (ſaith <hi>Seneca</hi>) but the Choice of our Company is matter of Vertue:</p>
+               <p>But we muſt leave the Crowd if we would be happy.</p>
+               <p>
+                  <hi>Eſt Solatium vitae cui pectus aperias.</hi> (ſaith another) <hi>(i. e.)</hi> It is the Solace or Comfort of Life, to have a faithful Friend, to whom thou may'ſt open thy mind.</p>
+               <p>There is a great Difference in Bodies, and there are as great Diverſities, and Varieties in our minds (ſaith <hi>Tully</hi>) who further adds, That <hi>Socrates,</hi> among the <hi>Greeks</hi> was a gentle and a pleaſant Companion; A Wit that lay much upon innocent Railery, and had an excel<g ref="char:EOLhyphen"/>lent Faculty of ſpeaking his mind, under an agreeable diſguiſe.</p>
+               <p>All appetites (ſaith <hi>Seneca</hi>) have their proper Ob<g ref="char:EOLhyphen"/>jects, and in the Knowledge and Fruition of them they find their Content and Satisfaction, and in the abſence of them they find Miſery and Torment. — Men have an Appetite and Inclination to a ſociable Life, and therefore in the Company and Society of ſeconds they find Pleaſure and Repoſe. Noble Examples ſtir us up to noble Actions — but ill Example, Pleaſure, Eaſe, are no doubt (ſaith he) great Corrupters of Manners. — As an ill Air may endanger a good Conſtitution, ſo may a place of ill Example endanger a good Man. Great Examples give both Authority and Excuſe to Wickedneſs.</p>
+               <pb n="48" facs="tcp:101404:27"/>
+               <p>'Tis Philoſophy that gives us a Veneration for <hi>God,</hi> a Charity to our Neighbour, that teaches our duty to Heaven; and exhorts us to an Agreement one with ano<g ref="char:EOLhyphen"/>ther.</p>
+               <p>The wiſe <hi>Cato</hi> hath obſerved, <hi>Nihil agendo, male agere diſcis, (i. e.)</hi> by Idleneſs or doing nothing, you will moſt certainly learn to do ill, for our buſie mind like nature will admit of no <hi>vacuum.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Concerning evil Habits.</head>
+               <p>Both <hi>Ariſtotle</hi> and <hi>Gallen</hi> ſay, Cuſtom is an aſcititious nature. And <hi>Gallen</hi> ſaith, A habit in any thing is a laſt<g ref="char:EOLhyphen"/>ing, and hardly diſſolvable Diſpoſition; long uſe and exerciſe at laſt becomes Nature.</p>
+               <p>So that (ſaith another) much of our Impotency to Good, is derived upon us by Familiarity with Sin.</p>
+               <p>And <hi>Seneca</hi> ſaith, there is nothing ſo hard but Cu<g ref="char:EOLhyphen"/>ſtom makes it eaſie to us.</p>
+               <p>And <hi>Tully</hi> ſaith, So great is the Infection of evil Cu<g ref="char:EOLhyphen"/>ſtom, that the ſeeds of Vertue communicated to us by nature are choaked by it, and Vices contrary thereto are begotten, whereupon aroſe that Saying, <hi>Vincere Conſuetudinem eſt dura Pugna.</hi> It is a hard and difficult Conteſt, to conquer a Habit and Cuſtom. But however, it is as true a Saying, <hi>Solus Amor neſcit difficultates, (i. e.)</hi> Only Love knows no Difficulties.</p>
+            </div>
+            <div type="part">
+               <head>Concerning Atheiſm and Irreligion.</head>
+               <p>
+                  <hi>Plutarch</hi> ſtiles Irreligion to be a kind of Stupor and Madneſs: whereby men are deprived of their Senſes: And he aſſerts it to be a very improper thing to aſcribe true Reaſon to thoſe who do not acknowledge and adore the Deity.</p>
+               <p>
+                  <hi>Tully</hi> ſaith, <hi>Eſſe Deos qui negat, vix eum ſanae mentis exiſtimem (i e.)</hi> I can hardly think that Man to be in his right mind who is an Atheiſt and deſtitute of Reli<g ref="char:EOLhyphen"/>gion: And he further proceeds, Why ſhould any ſtile ſuch a one a Man, who by what he ſees in the World, is not convinced of a Deity and a Providence, and of that
+<pb n="49" facs="tcp:101404:27"/>Adoration he owes to the Deity? And he calls Atheiſts, <hi>Hoſtes humani generis,</hi> the great Enemies of Mankind. And ſaith, That among all the living Creatures that are in the World, there is none but Man that hath any Notion of a Deity; and amongſt Mankind, there is no Nation ſo wild and barbarous but pretends to ſome Re<g ref="char:EOLhyphen"/>ligion.</p>
+               <p>And the <hi>Satyriſt</hi> ſpeaking of Religion and a Senſe of Divine things: 'Tis this (ſaith he) that diſtinguiſhes us from bruit Creatures, that we have Souls capable of Di<g ref="char:EOLhyphen"/>vine Impreſſions.</p>
+               <p>And as to Prophaneneſs, neglect and contempt of <hi>God</hi> and Religion, <hi>Seneca</hi> thus diſcourſeth; That ſeveral Countries do appoint ſeveral Puniſhments for the Viola<g ref="char:EOLhyphen"/>tion of Religion, but every Country appoints ſome, and it doth not any where eſcape unpuniſhed.</p>
+               <p>And <hi>Plato</hi> would have it puniſhed capitally, as being a thing of moſt pernitious Conſequence to Government.</p>
+               <p>And <hi>Tully</hi> aſcribes all the good Fortune of the <hi>Romans</hi> to their Piety and Devotion.</p>
+            </div>
+            <div type="part">
+               <head>As to common Swearing.</head>
+               <p>
+                  <hi>Tully</hi> ſaith, Seeing that an Oath does call down <hi>God</hi> for Witneſs, and propoſe him for Umpire and Voucher of the things it ſaith; therefore to induce <hi>God</hi> in hu<g ref="char:EOLhyphen"/>mane Affairs upon ſmall and ſlight accounts, doth imply Contempt of him, wherefore we ought wholly to ſhun Swearing, except upon Occaſions of the higheſt Ne<g ref="char:EOLhyphen"/>ceſſity.</p>
+               <p>And to ſwear at all (ſaith another Heathen) except where it is neceſſary; does not ſuit with a wiſe man.</p>
+               <p>
+                  <hi>Socrates</hi> ſaith, Reverence an Oath</p>
+               <p>But <hi>Seneca</hi> ſaith, I adviſe principally that men do not eaſily ſwear at all <hi>(i. e.)</hi> in light and ſmall matters.</p>
+            </div>
+            <div type="part">
+               <head>As to Government of Nations and Countries.</head>
+               <p>
+                  <hi>Plutarch</hi> ſtiles Religion to be the Cement of all Com<g ref="char:EOLhyphen"/>munities, and the chief Baſis of all Legiſlative Power; and that 'tis much more eaſie to build a City in the open
+<pb n="50" facs="tcp:101404:28"/>Air without any ground to found it upon, than to eſta<g ref="char:EOLhyphen"/>bliſh Government without Religion.</p>
+               <p>
+                  <hi>Plato</hi> ſaid that vertuous, honeſt and good men, are the Pillars and Support, the Preſervers of the World.</p>
+               <p>Take away, ſaith <hi>Tully,</hi> the awe of Religion, and all that Fidelity and Juſtice ſo neceſſary for the keeping up of humane Society muſt periſh with it.</p>
+               <p>
+                  <hi>Menander</hi> ſaith, The King is a living Image of <hi>God.</hi>
+               </p>
+               <p>
+                  <hi>Dietogenes</hi> the <hi>Pythagorean</hi> ſaith, That <hi>God</hi> hath given a Prince his Dominion, and that the King having a Power uncontroulable, and being himſelf a living Law, is the Figure of <hi>God</hi> among men.</p>
+               <p>And with <hi>Homer</hi> the Prince of Poets, doth <hi>Plato</hi> the Prince of Philoſophers agree; (as <hi>Biſhop <g ref="char:V">Ʋ</g>ſher</hi> tells us) That the Regal Office is a Divine good among Men, and makes his King as it were a <hi>God</hi> among Men.</p>
+               <p>
+                  <hi>Pliny</hi> telleth the Emperour <hi>Trajan,</hi> That <hi>God</hi> gave him to be his Subſtitute towards all Mankind.</p>
+               <p>And <hi>Plutavch</hi> out of <hi>Plato,</hi> preferreth a Monarchy be<g ref="char:EOLhyphen"/>fore all other Governments.</p>
+               <p>
+                  <hi>Marcus Aurelius,</hi> ſaith, Of a free Monarchy none may be Judge but <hi>God.</hi>
+               </p>
+               <p>
+                  <hi>Plutarch</hi> ſetteth this down as a chief Point of that natural Skill <hi>Philopaemen</hi> had in Government; That he did not only rule according to the Laws, but over-ruled the Laws themſelves, when he found it conduce to the weal-Publick.</p>
+               <p>And moſt excellent, for the ſupporting of juſt Govern<g ref="char:EOLhyphen"/>ment, is that ſaying of <hi>Tacitus</hi> the <hi>Roman</hi> Hiſtorian, <hi>Bonos Principes expetere debemus, qualeſcumque pati,</hi> &amp;c. <hi>(i. e.)</hi> That Subjects ought to deſire and pray for good Princes, yet to bear with the bad, as they do with dry and unſeaſonable Seaſons of the Year, and as they bear with Patience, Storms and Tempeſts, and all other the evils of this Life.</p>
+               <p>And <hi>Tully</hi> ſays, I prefer an unjuſt Peace before a moſt juſt War.</p>
+               <p>It is a very hard matter (ſaith <hi>Tully</hi>) for a Man to ob<g ref="char:EOLhyphen"/>ſerve the Tenor of true Equity (which peculiarly belongs to Juſtice) in the inordinate appetite of Superiority and Dominion, nothing can be honeſt, but what is juſt, and
+<pb n="51" facs="tcp:101404:28"/>therefore it was notably ſaid by <hi>Plato.</hi> As that Know<g ref="char:EOLhyphen"/>ledge which is divided from Juſtice, is rather Craft than Wiſdom, So that Courage which is bold and adventu<g ref="char:EOLhyphen"/>rous is rather Temerity and Fool-hardineſs, than Valour, if it be carried on by Paſſion and Intereſt rather than for a common Good: Wherefore (ſaith <hi>Tully</hi>) all men of Valour, and great Undertakings, ſhould be likewiſe Men of Goodneſs, Simplicity, Candor, and Friends of Truth: which are all inſeparable from Juſtice. But the miſchief is, that this Tumor and Elation of Mind, breaks out many times into a pertinacy, and an ambitious de<g ref="char:EOLhyphen"/>ſire of Rule. — No Man can be ſaid to be truly Heroick, that depends for his Reputation upon the Opinion of the Multitude.</p>
+               <p>And <hi>Tully</hi> (ſpeaking of the <hi>Greek</hi> verſes of <hi>Euripides,</hi> intimating that a Man might for a Crown be unjuſt) ſaith, It was a Lewd and horrible thing done of him to make that the Exception of a Crime, which of all Crimes, is it ſelf the moſt abominable.</p>
+               <p>But we need not wonder at the ſtrange Opinions of Men in our Times. When <hi>Ariſtotle</hi> hath told us in his Metaphyſicks, we embrace (ſaith he) Opinions becauſe of their Affinity to the Complexion of our minds, and the Agreeableneſs to our Lives and Manners.</p>
+               <p>
+                  <hi>Plutarch</hi> tells us how the tail of the Serpent rebelled againſt the head, becauſe it did guide the whole Body; and drew the tail after it whitherſoever it would; there<g ref="char:EOLhyphen"/>fore the head yielded that the tail ſhould rule, but then it being ſmall and wanting Eyes, drew the whole Body Head and all, through ſuch ſtraight Paſſages and Holes and Thickets, that it ſoon brought the Serpent to Confu<g ref="char:EOLhyphen"/>ſion.</p>
+               <p>And <hi>Titus Livius</hi> tells us, That when the People of <hi>Rome</hi> made a factious Combination to rebel againſt their Governors, <hi>Menenius Agrippa</hi> went unto them, and ſaid, That on a time, all the Members conſpined againſt the Stomach, and alledged that ſhe devoured with Eaſe and Pleaſure what they purchaſed with great Labour and Pains; And therefore the Feet would walk no more; the Hands would work no more, the Tongue would plead no more, and ſo within a little while the long faſting of
+<pb n="52" facs="tcp:101404:29"/>the Stomach and want of Meat, made weak Knees and feeble Hands, dimm Eyes and a faltering Tongue and a heavy Heart; thereupon, perceiving preſently their former Folly, they were glad to be reconciled to the Stomach again, which ſeaſonable and wiſe Diſcourſe re<g ref="char:EOLhyphen"/>conciled the People to their Governors.</p>
+               <p>A Prince is liable to be judged by none but <hi>God,</hi> ſaith <hi>Dion.</hi>
+               </p>
+               <p>And <hi>Horace</hi> ſaith to this purpoſe,
+<q>
+                     <l>Kings rule their Subjects, <hi>God</hi> alone</l>
+                     <l>Awes thoſe dread Soveraigns in their Throne.</l>
+                  </q>
+               </p>
+               <p>
+                  <hi>Seneca</hi> ſpeaks, That Nation or People that God intends to deſtroy, he firſt infatuates.</p>
+               <p>
+                  <hi>Tully</hi> ſaith, 'Tis the ſame thing, whether a Man wills before to have any thing done, or rejoices in it when 'tis done. He is (ſaith he) as guilty that applauds, as he that perſwades to it.</p>
+               <p>It was <hi>Seneca</hi>'s prognoſtick of the Monarchy that had been founded by <hi>Caeſar;</hi> That the denying of Obedience to it would prove the undoing thereof; for ſuch an Ac<g ref="char:EOLhyphen"/>cident as this (ſaith he) will be the Bane of the <hi>Roman</hi> Peace; it will bring the Fortunes of ſo great a People unto utter ruine. — As long as it knoweth how to endure the Reins, it will be ſafe: which if at any time it ſhall break, or when ſhaken off, ſhall not ſuffer to be put on again — This high Empire will fall in pieces, and the Dominion of this City will expire toge<g ref="char:EOLhyphen"/>ther with her Obedience.</p>
+               <p>The afflicted States of Kings, ſaith <hi>Tully,</hi> do eaſily draw the helps of many unto pity, and eſpecially of them who are either Kings themſelves, or do live in a King<g ref="char:EOLhyphen"/>dom; the Regal name being by them eſteemed to be great and ſacred.</p>
+            </div>
+            <div type="part">
+               <head>The Senſe of the Heathens, as to the future State of Re<g ref="char:EOLhyphen"/>wards and Puniſhments after this Life.</head>
+               <p>Firſt, As to their <hi>Elyzium.</hi> It was a reſolute Anſwer of <hi>Mundanus</hi> an eminent <hi>Gymn ſophiſt,</hi> to <hi>Alexander,</hi> when he threatned him with Death; <hi>viz.</hi> That he did not
+<pb n="53" facs="tcp:101404:29"/>fear Death, but rather wiſh it, in that it was a Change into a more happy State.</p>
+               <p>And it was the Anſwer of the Oracle to <hi>Amelius</hi> (en<g ref="char:EOLhyphen"/>quiring what was become of <hi>Polinius</hi>'s Soul) That he was gone to <hi>Pythagoras, Socrates,</hi> and <hi>Plato,</hi> and as ma<g ref="char:EOLhyphen"/>ny as had born a part in the Quire of heavenly Love.</p>
+               <p>Lucan <hi>ſaith,</hi>
+                  <q>
+                     <l>Victuroſque Dei celant ut vivere durent</l>
+                     <l>Felix eſſe mori:</l>
+                  </q> — in Doctor <hi>Brown</hi>'s Engliſh thus.
+<q>
+                     <l>We are all deluded, vainly ſearching ways,</l>
+                     <l>To make us happy by the length of days;</l>
+                     <l>For cunningly to make's protract this Breath,</l>
+                     <l>The Gods conceal the happineſs of Death.</l>
+                  </q>
+               </p>
+               <p>And the Senſe herein, of <hi>Antiphanes</hi> a Heathen Poet, the learned <hi>Grotius</hi> gives us, which is thus <hi>rendered in</hi> Engliſh <hi>by the Tranſlator.</hi>
+               </p>
+               <q>
+                  <l>Lament your Friends with Sorrow moderate,</l>
+                  <l>They are not loſt, but gone before, where Fate</l>
+                  <l>Diſpoſeth all: and we in order muſt;</l>
+                  <l>One after one be turn'd to the ſame duſt;</l>
+                  <l>We meet at the ſame Inn, by ſeveral ways,</l>
+                  <l>And in another World ſhall ſee new days.</l>
+               </q>
+               <p>And as to their <hi>Tartarus</hi> or <hi>Hell, Virgil</hi> having begun to relate ſome of the infernal Torments, paſſes over the reſt in ſilence, becauſe of their multitude, declaring that though he had one hundred Mouths, and as many Tongues, and a Voice of Iron, yet ſhould he not be able to recite ſo much as their Names.</p>
+               <p>I ſhall draw to a Concluſion and make uſe of the words of a late worthy Author; That indeed Moral Vertues were never ſo eſtabliſh'd by the Light of Reaſon as they are by the Laws of the Goſpel, and our Obedience endeared to us by nobler Promiſes than the <hi>Pagan</hi> Philoſo<g ref="char:EOLhyphen"/>phy were ever made acquainted with, and theſe Promiſes attended with all the Motives of Credibility; and like<g ref="char:EOLhyphen"/>wiſe enforced under ſeverer Penalties than either <hi>Virgil</hi> or <hi>Homer</hi> in all their Romantick Deſcription of <hi>Elyzium</hi> or <hi>Tartarus,</hi> ever dreamt of. Nor is there in all the <hi>E<g ref="char:EOLhyphen"/>thicks</hi> of the <hi>Grecians</hi> or <hi>Romans,</hi> ſuch an Inducement and incentive to practical Obedience, as the Incarnation of the Son of God, <hi>That God ſo loved the World, that he gave his only begotten Son to die for us, that we might not periſh
+<pb n="54" facs="tcp:101404:30"/>but have eternal Life;</hi> nor ſuch a matchleſs Patern of uni<g ref="char:EOLhyphen"/>verſal Vertue, as the Life of the ever bleſſed <hi>Jeſus</hi> ſets before us. So that upon the whole, we Chriſtians that have the Light of the Goſpel, the ſacred Writings of the Old and New Teſtament, are more inexcuſable in our Failures, and criminal in our Miſcarriages, than thoſe that lived under the Conduct of meer Reaſon, were. And to which let me adjoin that notable Saying of <hi>Salvian, viz.</hi> After what manner is <hi>Jeſus Chriſt</hi> at this day honoured among us Chriſtians, when the being his faithful Diſci<g ref="char:EOLhyphen"/>ples, is an Occaſion to make one leſs eſteemed of men! How can the Corruption of the World come to any grea<g ref="char:EOLhyphen"/>ter Extremity than to hold Religion for a mean and diſ<g ref="char:EOLhyphen"/>honourable thing, when on the contrary 'tis Religion only that truly deſerves Honour and Regard, and to which all Divine and Humane Laws have ever given great Reſpect and Deference; yea ſo far, that the very feigned Deities of the Heathens were thought worthy of Gold and Silver Temples, when even the true God (who gives all Beauty and Luſtre to Gold and Silver and pre<g ref="char:EOLhyphen"/>cious Stones) is ſcarcely honoured by us within Stone Walls. Alas! as another Author tells us, The great Wiſdom of many in our times conſiſteth only in getting Money (the grand Antichriſt of the World) which in the very Letter of the Text, they exalt above God and Religion.</p>
+               <p>But a wiſe man (ſaith <hi>Seneca</hi>) ſtudies rather to fill his Mind than his Coffers.</p>
+               <p>And may I conclude with theſe ſerious Cautions of <hi>Se<g ref="char:EOLhyphen"/>neca</hi> and <hi>Virgil.</hi>
+               </p>
+               <p>That Kingdom (ſaith <hi>Seneca</hi>) is in an unſtable and cottering Condition, where Impudence abounds, and where is no regard of Religion, Juſtice, Fidelity and Integrity.</p>
+               <p>
+                  <hi>Diſcite Juſtitiam moniti, &amp; non temnere Divos,</hi> ſaith <hi>Virgil.</hi>
+               </p>
+               <p>Be admoniſhed and learn Righteouſneſs, and ceaſe to contemn God and Religion any more.</p>
+            </div>
+         </div>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>PAge 37. <hi>l.</hi> 3. <hi>r.</hi> (ſaith <hi>Seneca.</hi>) p. 39 <hi>l</hi> 1. for <hi>preſent<g ref="char:EOLhyphen"/>ing, r. proſecuting.</hi> p. 41. dele <hi>the</hi> 10<hi rend="sup">th</hi> 
+               <hi>line.</hi>
+            </p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:101404:30"/>
+            <head>Books Printed for and Sold by <hi>Luke Meredith,</hi> at the <hi>Angel</hi> in <hi>Amen-Corner.</hi>
+            </head>
+            <div type="part">
+               <head>Books written by the Reverend Dr. <hi>Patrick,</hi> now Lord Biſhop of <hi>Chicheſter.</hi>
+               </head>
+               <p>THE Chriſtian Sacrifice: A Treatiſe, ſhewing the Neceſſity, End, and Manner of receiving the Holy Communion; together with ſuitable Prayers and Meditations for every Month in the Year, and the prin<g ref="char:EOLhyphen"/>cipal Feſtivals in memory of our bleſſed Saviour: In Four parts. The Ninth Edition corrected.</p>
+               <p>The devout Chriſtian inſtructed how to pray and give thanks to God: Or, a Book of Devotions for Families, and particular perſons, in moſt of the Concerns of hu<g ref="char:EOLhyphen"/>mane Life. The Eighth Edition, in <hi>Twelves.</hi>
+               </p>
+               <p>And Advice to a Friend. The Fourth Edition, in <hi>Twelves.</hi>
+               </p>
+               <p>The Glorious <hi>Epiphany,</hi> with the devout Chriſtian's Love to it, in <hi>Octavo.</hi>
+               </p>
+               <p>The Book of <hi>Job</hi> Paraphras'd, in <hi>Octavo,</hi> new.</p>
+               <p>The whole Book of <hi>Pſalms</hi> Paraphraſed, in <hi>Octavo,</hi> Two Volumes.</p>
+               <p>The Proverbs of <hi>Solomon</hi> Paraphraſed, with Argu<g ref="char:EOLhyphen"/>ments to each Chapter, which ſupply the place of Com<g ref="char:EOLhyphen"/>menting.</p>
+               <p>A Paraphraſe upon the Books of <hi>Eccleſiaſtes,</hi> and the Song of <hi>Solomon,</hi> with Arguments to each Chapter, and Annotations thereupon, in <hi>Octavo.</hi>
+               </p>
+               <p>The Truth of Chriſtian Religion, in Six Books; writ<g ref="char:EOLhyphen"/>ten in Latin by <hi>Hugo Grotius,</hi> and now Tranſlated into Engliſh, with the Addition of a Seventh Book againſt the preſent <hi>Roman</hi> Church, in <hi>Octavo.</hi>
+               </p>
+               <p>Search the Scriptures; A Treatiſe, ſhewing that all Chriſtians ought to read the Holy Books; with directi<g ref="char:EOLhyphen"/>ons to them therein: In Three Parts.</p>
+               <p>A Treatiſe of Repentance and of Faſting, eſpecially of the <hi>Lent</hi> Faſt: In Three Parts.</p>
+               <p>A Diſcourſe concerning Prayer, eſpecially of frequent<g ref="char:EOLhyphen"/>ing the daily publick Prayers: In Two Parts.</p>
+               <p>A Book for Beginners; or a Help to Young Commu<g ref="char:EOLhyphen"/>nicants, that they may be fitted for the Holy Commu<g ref="char:EOLhyphen"/>nion, and receive it with profit.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:101404:31"/>
+               <head>Books written by <hi>Jer. Taylor, D. D.</hi> and late Lor<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Biſhop of <hi>Down</hi> and <hi>Connor.</hi>
+               </head>
+               <p>THE Rules and Exerciſes of holy Living, and holy Dying: the Eleventh Edition newly Printed, in 8.</p>
+               <p>The Golden Grove; a Choice Manual, containing what is to be believed, practiſed and deſired, or prayed for: the Prayers being fitted to the ſeveral days of the Week; alſo Feſtival Hymns according to the manner of the Ancient Church.</p>
+               <p>A Collection of Offices, or Forms of Prayer in Caſes ordinary and extraordinary; taken out of the Scriptures and the ancient Liturgies of ſeveral Churches, eſpecially the <hi>Greek.</hi> Together with a large Preface in Vindica<g ref="char:EOLhyphen"/>tion of the Liturgy of the Church of <hi>England.</hi> The Se<g ref="char:EOLhyphen"/>cond Edition, in <hi>Twelves.</hi>
+               </p>
+               <p>The Pſalter of <hi>David,</hi> with Titles and Collects accor<g ref="char:EOLhyphen"/>ding to the Matter of each Pſalm; whereunto are added Devotions for the Help and Aſſiſtance of all Chriſtian People in all occaſions and Neceſſities. The Tenth Editi<g ref="char:EOLhyphen"/>on; in <hi>Twelves.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Books written by the Reverend <hi>J. Goodman,</hi> D. D.</head>
+               <p>THE Penitent pardoned; or a Diſcourſe of the na<g ref="char:EOLhyphen"/>ture of Sin, and the Efficacy of Repentance, under the Parable of the Prodigal Son.</p>
+               <p>A Winter Evening Conference between Neighbours; in three Parts.</p>
+               <p>The Old Religion demonſtrated in its Principles, and deſcribed in the Life and Practice thereof.</p>
+               <p>
+                  <hi>Boanerges</hi> and <hi>Barnabas: Judgment</hi> and <hi>Mercy,</hi> or <hi>Wine</hi> and <hi>Oil</hi> for wounded and afflicted Souls. In Two Parts. By <hi>Fra. Quarles.</hi> The Tenth Edition, in <hi>Twelves.</hi>
+               </p>
+               <p>The <hi>Saints Legacies:</hi> or a Collection of certain Pro<g ref="char:EOLhyphen"/>miſes out of the Word of <hi>God.</hi> Collected for privatence: but Publiſhed for the Comfort of <hi>God</hi>'s People. Toge<g ref="char:EOLhyphen"/>ther with the <hi>Saints Support</hi> in time of Trouble. The Thirteenth Edition. In 12<hi rend="sup">o</hi>.</p>
+               <p>Biſhop <hi>Cozen</hi>'s Devotions, in <hi>Twelves.</hi>
+               </p>
+               <p>The Counteſs of <hi>Morton</hi>'s daily Exerciſe; or a Book of Prayers and Rules how to ſpend the time in the <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> vice and Pleaſure of Almighty God. The Thirtee<gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Edition, 24.</p>
+            </div>
+         </div>
+         <trailer>THE END.</trailer>
+      </back>
+   </text>
+</TEI>
